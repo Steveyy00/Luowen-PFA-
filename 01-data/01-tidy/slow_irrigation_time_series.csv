@@ -1,0 +1,260 @@
+time,species,speed,perc
+0,Substrate only,slow,0
+0.167,Substrate only,slow,6.623134328
+0.334,Substrate only,slow,12.96641791
+0.5,Substrate only,slow,16.97761194
+0.667,Substrate only,slow,19.86940299
+0.834,Substrate only,slow,21.64179104
+1,Substrate only,slow,24.06716418
+1.167,Substrate only,slow,30.03731343
+1.334,Substrate only,slow,36.75373134
+1.5,Substrate only,slow,42.91044776
+1.667,Substrate only,slow,47.66791045
+1.834,Substrate only,slow,52.42537313
+2,Substrate only,slow,52.42537313
+2.167,Substrate only,slow,52.42537313
+2.334,Substrate only,slow,52.42537313
+2.5,Substrate only,slow,90.39179104
+2.667,Substrate only,slow,91.60447761
+2.834,Substrate only,slow,93.56343284
+3,Substrate only,slow,94.30970149
+3.167,Substrate only,slow,96.3619403
+3.334,Substrate only,slow,97.20149254
+3.5,Substrate only,slow,98.60074627
+3.667,Substrate only,slow,99.44029851
+3.834,Substrate only,slow,100
+4,Substrate only,slow,100
+4.167,Substrate only,slow,100
+4.334,Substrate only,slow,100
+4.5,Substrate only,slow,100
+4.667,Substrate only,slow,100
+4.834,Substrate only,slow,100
+5,Substrate only,slow,100
+5.167,Substrate only,slow,100
+5.334,Substrate only,slow,100
+5.5,Substrate only,slow,100
+5.667,Substrate only,slow,100
+5.834,Substrate only,slow,100
+6,Substrate only,slow,100
+0,Spathiphyllum wallisii ,slow,1.337792642
+0.167,Spathiphyllum wallisii ,slow,0
+0.334,Spathiphyllum wallisii ,slow,0
+0.5,Spathiphyllum wallisii ,slow,5.016722408
+0.667,Spathiphyllum wallisii ,slow,6.02006689
+0.834,Spathiphyllum wallisii ,slow,6.02006689
+1,Spathiphyllum wallisii ,slow,9.698996656
+1.167,Spathiphyllum wallisii ,slow,9.698996656
+1.334,Spathiphyllum wallisii ,slow,9.698996656
+1.5,Spathiphyllum wallisii ,slow,13.71237458
+1.667,Spathiphyllum wallisii ,slow,14.04682274
+1.834,Spathiphyllum wallisii ,slow,14.04682274
+2,Spathiphyllum wallisii ,slow,16.05351171
+2.167,Spathiphyllum wallisii ,slow,17.05685619
+2.334,Spathiphyllum wallisii ,slow,17.05685619
+2.5,Spathiphyllum wallisii ,slow,17.05685619
+2.667,Spathiphyllum wallisii ,slow,23.07692308
+2.834,Spathiphyllum wallisii ,slow,23.07692308
+3,Spathiphyllum wallisii ,slow,23.07692308
+3.167,Spathiphyllum wallisii ,slow,34.11371237
+3.334,Spathiphyllum wallisii ,slow,34.11371237
+3.5,Spathiphyllum wallisii ,slow,34.11371237
+3.667,Spathiphyllum wallisii ,slow,44.81605351
+3.834,Spathiphyllum wallisii ,slow,44.81605351
+4,Spathiphyllum wallisii ,slow,44.81605351
+4.167,Spathiphyllum wallisii ,slow,50.8361204
+4.334,Spathiphyllum wallisii ,slow,50.8361204
+4.5,Spathiphyllum wallisii ,slow,56.85618729
+4.667,Spathiphyllum wallisii ,slow,58.52842809
+4.834,Spathiphyllum wallisii ,slow,59.53177258
+5,Spathiphyllum wallisii ,slow,67.55852843
+5.167,Spathiphyllum wallisii ,slow,68.56187291
+5.334,Spathiphyllum wallisii ,slow,67.55852843
+5.5,Spathiphyllum wallisii ,slow,78.59531773
+5.667,Spathiphyllum wallisii ,slow,78.59531773
+5.834,Spathiphyllum wallisii ,slow,78.92976589
+6,Spathiphyllum wallisii ,slow,89.96655518
+0,Chlorophytum comosum variegatum,slow,0.882723834
+0.167,Chlorophytum comosum variegatum,slow,0
+0.334,Chlorophytum comosum variegatum,slow,0
+0.5,Chlorophytum comosum variegatum,slow,31.5258512
+0.667,Chlorophytum comosum variegatum,slow,33.03909206
+0.834,Chlorophytum comosum variegatum,slow,33.03909206
+1,Chlorophytum comosum variegatum,slow,62.54728878
+1.167,Chlorophytum comosum variegatum,slow,62.29508197
+1.334,Chlorophytum comosum variegatum,slow,62.04287516
+1.5,Chlorophytum comosum variegatum,slow,69.23076923
+1.667,Chlorophytum comosum variegatum,slow,69.23076923
+1.834,Chlorophytum comosum variegatum,slow,69.48297604
+2,Chlorophytum comosum variegatum,slow,69.48297604
+2.167,Chlorophytum comosum variegatum,slow,73.01387137
+2.334,Chlorophytum comosum variegatum,slow,73.01387137
+2.5,Chlorophytum comosum variegatum,slow,76.04035309
+2.667,Chlorophytum comosum variegatum,slow,76.16645649
+2.834,Chlorophytum comosum variegatum,slow,76.16645649
+3,Chlorophytum comosum variegatum,slow,77.80580076
+3.167,Chlorophytum comosum variegatum,slow,77.80580076
+3.334,Chlorophytum comosum variegatum,slow,77.80580076
+3.5,Chlorophytum comosum variegatum,slow,77.80580076
+3.667,Chlorophytum comosum variegatum,slow,79.94955864
+3.834,Chlorophytum comosum variegatum,slow,80.45397226
+4,Chlorophytum comosum variegatum,slow,80.45397226
+4.167,Chlorophytum comosum variegatum,slow,95.33417402
+4.334,Chlorophytum comosum variegatum,slow,95.33417402
+4.5,Chlorophytum comosum variegatum,slow,95.33417402
+4.667,Chlorophytum comosum variegatum,slow,97.85624212
+4.834,Chlorophytum comosum variegatum,slow,97.85624212
+5,Chlorophytum comosum variegatum,slow,97.85624212
+5.167,Chlorophytum comosum variegatum,slow,98.10844893
+5.334,Chlorophytum comosum variegatum,slow,98.10844893
+5.5,Chlorophytum comosum variegatum,slow,98.73896595
+5.667,Chlorophytum comosum variegatum,slow,100
+5.834,Chlorophytum comosum variegatum,slow,100
+6,Chlorophytum comosum variegatum,slow,100
+0,Nematanthus wettsteinii,slow,2.466367713
+0.167,Nematanthus wettsteinii,slow,0
+0.334,Nematanthus wettsteinii,slow,0.224215247
+0.5,Nematanthus wettsteinii,slow,0.224215247
+0.667,Nematanthus wettsteinii,slow,22.42152466
+0.834,Nematanthus wettsteinii,slow,22.64573991
+1,Nematanthus wettsteinii,slow,22.86995516
+1.167,Nematanthus wettsteinii,slow,23.0941704
+1.334,Nematanthus wettsteinii,slow,30.04484305
+1.5,Nematanthus wettsteinii,slow,33.632287
+1.667,Nematanthus wettsteinii,slow,33.85650224
+1.834,Nematanthus wettsteinii,slow,33.85650224
+2,Nematanthus wettsteinii,slow,33.85650224
+2.167,Nematanthus wettsteinii,slow,33.85650224
+2.334,Nematanthus wettsteinii,slow,42.82511211
+2.5,Nematanthus wettsteinii,slow,42.82511211
+2.667,Nematanthus wettsteinii,slow,47.08520179
+2.834,Nematanthus wettsteinii,slow,47.30941704
+3,Nematanthus wettsteinii,slow,47.53363229
+3.167,Nematanthus wettsteinii,slow,50.44843049
+3.334,Nematanthus wettsteinii,slow,50.44843049
+3.5,Nematanthus wettsteinii,slow,50.44843049
+3.667,Nematanthus wettsteinii,slow,72.42152466
+3.834,Nematanthus wettsteinii,slow,72.86995516
+4,Nematanthus wettsteinii,slow,72.86995516
+4.167,Nematanthus wettsteinii,slow,72.86995516
+4.334,Nematanthus wettsteinii,slow,80.49327354
+4.5,Nematanthus wettsteinii,slow,80.49327354
+4.667,Nematanthus wettsteinii,slow,84.30493274
+4.834,Nematanthus wettsteinii,slow,89.68609865
+5,Nematanthus wettsteinii,slow,89.68609865
+5.167,Nematanthus wettsteinii,slow,93.49775785
+5.334,Nematanthus wettsteinii,slow,93.2735426
+5.5,Nematanthus wettsteinii,slow,97.30941704
+5.667,Nematanthus wettsteinii,slow,97.30941704
+5.834,Nematanthus wettsteinii,slow,97.30941704
+6,Nematanthus wettsteinii,slow,97.30941704
+0,Spathiphyllum Chico,slow,0
+0.167,Spathiphyllum Chico,slow,18.26923077
+0.334,Spathiphyllum Chico,slow,18.26923077
+0.5,Spathiphyllum Chico,slow,27.88461538
+0.667,Spathiphyllum Chico,slow,38.46153846
+0.834,Spathiphyllum Chico,slow,38.46153846
+1,Spathiphyllum Chico,slow,68.26923077
+1.167,Spathiphyllum Chico,slow,68.26923077
+1.334,Spathiphyllum Chico,slow,68.26923077
+1.5,Spathiphyllum Chico,slow,80.76923077
+1.667,Spathiphyllum Chico,slow,85.57692308
+1.834,Spathiphyllum Chico,slow,85.57692308
+2,Spathiphyllum Chico,slow,84.61538462
+2.167,Spathiphyllum Chico,slow,84.61538462
+2.334,Spathiphyllum Chico,slow,84.61538462
+2.5,Spathiphyllum Chico,slow,93.26923077
+2.667,Spathiphyllum Chico,slow,93.26923077
+2.834,Spathiphyllum Chico,slow,94.23076923
+3,Spathiphyllum Chico,slow,91.34615385
+3.167,Spathiphyllum Chico,slow,100
+3.334,Spathiphyllum Chico,slow,100
+3.5,Spathiphyllum Chico,slow,100
+3.667,Spathiphyllum Chico,slow,100
+3.834,Spathiphyllum Chico,slow,100
+4,Spathiphyllum Chico,slow,100
+4.167,Spathiphyllum Chico,slow,100
+4.334,Spathiphyllum Chico,slow,100
+4.5,Spathiphyllum Chico,slow,100
+4.667,Spathiphyllum Chico,slow,100
+4.834,Spathiphyllum Chico,slow,100
+5,Spathiphyllum Chico,slow,100
+5.167,Spathiphyllum Chico,slow,100
+5.334,Spathiphyllum Chico,slow,100
+5.5,Spathiphyllum Chico,slow,100
+5.667,Spathiphyllum Chico,slow,100
+5.834,Spathiphyllum Chico,slow,100
+6,Spathiphyllum Chico,slow,100
+0,Philodendron hederaceum &Philodendron erubescens,slow,0
+0.167,Philodendron hederaceum &Philodendron erubescens,slow,0.348837209
+0.334,Philodendron hederaceum &Philodendron erubescens,slow,0.348837209
+0.5,Philodendron hederaceum &Philodendron erubescens,slow,17.44186047
+0.667,Philodendron hederaceum &Philodendron erubescens,slow,18.48837209
+0.834,Philodendron hederaceum &Philodendron erubescens,slow,18.48837209
+1,Philodendron hederaceum &Philodendron erubescens,slow,84.18604651
+1.167,Philodendron hederaceum &Philodendron erubescens,slow,83.95348837
+1.334,Philodendron hederaceum &Philodendron erubescens,slow,87.79069767
+1.5,Philodendron hederaceum &Philodendron erubescens,slow,87.55813953
+1.667,Philodendron hederaceum &Philodendron erubescens,slow,87.55813953
+1.834,Philodendron hederaceum &Philodendron erubescens,slow,89.65116279
+2,Philodendron hederaceum &Philodendron erubescens,slow,90.23255814
+2.167,Philodendron hederaceum &Philodendron erubescens,slow,90.23255814
+2.334,Philodendron hederaceum &Philodendron erubescens,slow,92.90697674
+2.5,Philodendron hederaceum &Philodendron erubescens,slow,92.79069767
+2.667,Philodendron hederaceum &Philodendron erubescens,slow,92.79069767
+2.834,Philodendron hederaceum &Philodendron erubescens,slow,94.88372093
+3,Philodendron hederaceum &Philodendron erubescens,slow,95.11627907
+3.167,Philodendron hederaceum &Philodendron erubescens,slow,95.11627907
+3.334,Philodendron hederaceum &Philodendron erubescens,slow,96.74418605
+3.5,Philodendron hederaceum &Philodendron erubescens,slow,97.20930233
+3.667,Philodendron hederaceum &Philodendron erubescens,slow,97.09302326
+3.834,Philodendron hederaceum &Philodendron erubescens,slow,98.37209302
+4,Philodendron hederaceum &Philodendron erubescens,slow,98.72093023
+4.167,Philodendron hederaceum &Philodendron erubescens,slow,99.88372093
+4.334,Philodendron hederaceum &Philodendron erubescens,slow,100
+4.5,Philodendron hederaceum &Philodendron erubescens,slow,100
+4.667,Philodendron hederaceum &Philodendron erubescens,slow,100
+4.834,Philodendron hederaceum &Philodendron erubescens,slow,100
+5,Philodendron hederaceum &Philodendron erubescens,slow,100
+5.167,Philodendron hederaceum &Philodendron erubescens,slow,100
+5.334,Philodendron hederaceum &Philodendron erubescens,slow,100
+5.5,Philodendron hederaceum &Philodendron erubescens,slow,100
+5.667,Philodendron hederaceum &Philodendron erubescens,slow,100
+5.834,Philodendron hederaceum &Philodendron erubescens,slow,100
+6,Philodendron hederaceum &Philodendron erubescens,slow,100
+0,Peperomia obtusifolia,slow,0
+0.167,Peperomia obtusifolia,slow,0
+0.334,Peperomia obtusifolia,slow,68.00947867
+0.5,Peperomia obtusifolia,slow,72.03791469
+0.667,Peperomia obtusifolia,slow,72.51184834
+0.834,Peperomia obtusifolia,slow,83.6492891
+1,Peperomia obtusifolia,slow,84.36018957
+1.167,Peperomia obtusifolia,slow,84.36018957
+1.334,Peperomia obtusifolia,slow,91.23222749
+1.5,Peperomia obtusifolia,slow,92.41706161
+1.667,Peperomia obtusifolia,slow,95.26066351
+1.834,Peperomia obtusifolia,slow,95.26066351
+2,Peperomia obtusifolia,slow,95.73459716
+2.167,Peperomia obtusifolia,slow,95.73459716
+2.334,Peperomia obtusifolia,slow,95.73459716
+2.5,Peperomia obtusifolia,slow,96.91943128
+2.667,Peperomia obtusifolia,slow,96.91943128
+2.834,Peperomia obtusifolia,slow,96.91943128
+3,Peperomia obtusifolia,slow,96.91943128
+3.167,Peperomia obtusifolia,slow,100
+3.334,Peperomia obtusifolia,slow,100
+3.5,Peperomia obtusifolia,slow,100
+3.667,Peperomia obtusifolia,slow,100
+3.834,Peperomia obtusifolia,slow,100
+4,Peperomia obtusifolia,slow,100
+4.167,Peperomia obtusifolia,slow,100
+4.334,Peperomia obtusifolia,slow,100
+4.5,Peperomia obtusifolia,slow,100
+4.667,Peperomia obtusifolia,slow,100
+4.834,Peperomia obtusifolia,slow,100
+5,Peperomia obtusifolia,slow,100
+5.167,Peperomia obtusifolia,slow,100
+5.334,Peperomia obtusifolia,slow,100
+5.5,Peperomia obtusifolia,slow,100
+5.667,Peperomia obtusifolia,slow,100
+5.834,Peperomia obtusifolia,slow,100
+6,Peperomia obtusifolia,slow,100

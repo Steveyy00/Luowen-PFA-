@@ -1,0 +1,897 @@
+species,speed,irrigation,position x,position y,value
+Substrate only,fast,before,a,1,0.017
+Substrate only,fast,before,b,1,0.05
+Substrate only,fast,before,c,1,0.023
+Substrate only,fast,before,d,1,0.014
+Substrate only,fast,before,a,2,0.025
+Substrate only,fast,before,b,2,0.058
+Substrate only,fast,before,c,2,0.033
+Substrate only,fast,before,d,2,0.05
+Substrate only,fast,before,a,3,0.033
+Substrate only,fast,before,b,3,0.025
+Substrate only,fast,before,c,3,0.037
+Substrate only,fast,before,d,3,0.024
+Substrate only,fast,before,a,4,0.052
+Substrate only,fast,before,b,4,0.066
+Substrate only,fast,before,c,4,0.036
+Substrate only,fast,before,d,4,0.037
+Substrate only,fast,before,a,1,0.234
+Substrate only,fast,before,b,1,0.015
+Substrate only,fast,before,c,1,0.015
+Substrate only,fast,before,d,1,0.026
+Substrate only,fast,before,a,2,0.018
+Substrate only,fast,before,b,2,0.029
+Substrate only,fast,before,c,2,0.035
+Substrate only,fast,before,d,2,0.035
+Substrate only,fast,before,a,3,0.045
+Substrate only,fast,before,b,3,0.027
+Substrate only,fast,before,c,3,0.034
+Substrate only,fast,before,d,3,0.025
+Substrate only,fast,before,a,4,0.056
+Substrate only,fast,before,b,4,0.049
+Substrate only,fast,before,c,4,0.046
+Substrate only,fast,before,d,4,0.059
+Substrate only,fast,before,a,1,0.038
+Substrate only,fast,before,b,1,0.039
+Substrate only,fast,before,c,1,0.04
+Substrate only,fast,before,d,1,0.022
+Substrate only,fast,before,a,2,0.022
+Substrate only,fast,before,b,2,0.048
+Substrate only,fast,before,c,2,0.05
+Substrate only,fast,before,d,2,0.052
+Substrate only,fast,before,a,3,0.046
+Substrate only,fast,before,b,3,0.031
+Substrate only,fast,before,c,3,0.056
+Substrate only,fast,before,d,3,0.022
+Substrate only,fast,before,a,4,0.088
+Substrate only,fast,before,b,4,0.111
+Substrate only,fast,before,c,4,0.054
+Substrate only,fast,before,d,4,0.043
+Spathiphyllum wallisii ,fast,before,a,1,0.018
+Spathiphyllum wallisii ,fast,before,b,1,0.031
+Spathiphyllum wallisii ,fast,before,c,1,0.021
+Spathiphyllum wallisii ,fast,before,d,1,0.038
+Spathiphyllum wallisii ,fast,before,a,2,0.03
+Spathiphyllum wallisii ,fast,before,b,2,0.029
+Spathiphyllum wallisii ,fast,before,c,2,0.034
+Spathiphyllum wallisii ,fast,before,d,2,0.045
+Spathiphyllum wallisii ,fast,before,a,3,0.027
+Spathiphyllum wallisii ,fast,before,b,3,0.025
+Spathiphyllum wallisii ,fast,before,c,3,0.027
+Spathiphyllum wallisii ,fast,before,d,3,0.035
+Spathiphyllum wallisii ,fast,before,a,4,0.026
+Spathiphyllum wallisii ,fast,before,b,4,0.034
+Spathiphyllum wallisii ,fast,before,c,4,0.03
+Spathiphyllum wallisii ,fast,before,d,4,0.056
+Spathiphyllum wallisii ,fast,before,a,1,0.042
+Spathiphyllum wallisii ,fast,before,b,1,0.021
+Spathiphyllum wallisii ,fast,before,c,1,0.03
+Spathiphyllum wallisii ,fast,before,d,1,0.023
+Spathiphyllum wallisii ,fast,before,a,2,0.04
+Spathiphyllum wallisii ,fast,before,b,2,0.033
+Spathiphyllum wallisii ,fast,before,c,2,0.036
+Spathiphyllum wallisii ,fast,before,d,2,0.028
+Spathiphyllum wallisii ,fast,before,a,3,0.039
+Spathiphyllum wallisii ,fast,before,b,3,0.072
+Spathiphyllum wallisii ,fast,before,c,3,0.049
+Spathiphyllum wallisii ,fast,before,d,3,0.031
+Spathiphyllum wallisii ,fast,before,a,4,0.097
+Spathiphyllum wallisii ,fast,before,b,4,0.111
+Spathiphyllum wallisii ,fast,before,c,4,0.087
+Spathiphyllum wallisii ,fast,before,d,4,0.108
+Spathiphyllum wallisii ,fast,before,a,1,0.056
+Spathiphyllum wallisii ,fast,before,b,1,0.037
+Spathiphyllum wallisii ,fast,before,c,1,0.071
+Spathiphyllum wallisii ,fast,before,d,1,0.017
+Spathiphyllum wallisii ,fast,before,a,2,0.054
+Spathiphyllum wallisii ,fast,before,b,2,0.057
+Spathiphyllum wallisii ,fast,before,c,2,0.082
+Spathiphyllum wallisii ,fast,before,d,2,0.046
+Spathiphyllum wallisii ,fast,before,a,3,0.06
+Spathiphyllum wallisii ,fast,before,b,3,0.095
+Spathiphyllum wallisii ,fast,before,c,3,0.071
+Spathiphyllum wallisii ,fast,before,d,3,0.078
+Spathiphyllum wallisii ,fast,before,a,4,0.095
+Spathiphyllum wallisii ,fast,before,b,4,0.106
+Spathiphyllum wallisii ,fast,before,c,4,0.114
+Spathiphyllum wallisii ,fast,before,d,4,0.128
+Chlorophytum comosum variegatum,fast,before,a,1,0.016
+Chlorophytum comosum variegatum,fast,before,b,1,0.019
+Chlorophytum comosum variegatum,fast,before,c,1,0.023
+Chlorophytum comosum variegatum,fast,before,d,1,0.02
+Chlorophytum comosum variegatum,fast,before,a,2,0.022
+Chlorophytum comosum variegatum,fast,before,b,2,0.023
+Chlorophytum comosum variegatum,fast,before,c,2,0.027
+Chlorophytum comosum variegatum,fast,before,d,2,0.024
+Chlorophytum comosum variegatum,fast,before,a,3,0.02
+Chlorophytum comosum variegatum,fast,before,b,3,0.02
+Chlorophytum comosum variegatum,fast,before,c,3,0.023
+Chlorophytum comosum variegatum,fast,before,d,3,0.022
+Chlorophytum comosum variegatum,fast,before,a,4,0.02
+Chlorophytum comosum variegatum,fast,before,b,4,0.022
+Chlorophytum comosum variegatum,fast,before,c,4,0.022
+Chlorophytum comosum variegatum,fast,before,d,4,0.021
+Chlorophytum comosum variegatum,fast,before,a,1,0.025
+Chlorophytum comosum variegatum,fast,before,b,1,0.053
+Chlorophytum comosum variegatum,fast,before,c,1,0.024
+Chlorophytum comosum variegatum,fast,before,d,1,0.018
+Chlorophytum comosum variegatum,fast,before,a,2,0.03
+Chlorophytum comosum variegatum,fast,before,b,2,0.028
+Chlorophytum comosum variegatum,fast,before,c,2,0.028
+Chlorophytum comosum variegatum,fast,before,d,2,0.027
+Chlorophytum comosum variegatum,fast,before,a,3,0.033
+Chlorophytum comosum variegatum,fast,before,b,3,0.032
+Chlorophytum comosum variegatum,fast,before,c,3,0.031
+Chlorophytum comosum variegatum,fast,before,d,3,0.035
+Chlorophytum comosum variegatum,fast,before,a,4,0.031
+Chlorophytum comosum variegatum,fast,before,b,4,0.029
+Chlorophytum comosum variegatum,fast,before,c,4,0.027
+Chlorophytum comosum variegatum,fast,before,d,4,0.024
+Chlorophytum comosum variegatum,fast,before,a,1,0.021
+Chlorophytum comosum variegatum,fast,before,b,1,0.03
+Chlorophytum comosum variegatum,fast,before,c,1,0.041
+Chlorophytum comosum variegatum,fast,before,d,1,0.028
+Chlorophytum comosum variegatum,fast,before,a,2,0.025
+Chlorophytum comosum variegatum,fast,before,b,2,0.044
+Chlorophytum comosum variegatum,fast,before,c,2,0.034
+Chlorophytum comosum variegatum,fast,before,d,2,0.033
+Chlorophytum comosum variegatum,fast,before,a,3,0.027
+Chlorophytum comosum variegatum,fast,before,b,3,0.03
+Chlorophytum comosum variegatum,fast,before,c,3,0.027
+Chlorophytum comosum variegatum,fast,before,d,3,0.03
+Chlorophytum comosum variegatum,fast,before,a,4,0.028
+Chlorophytum comosum variegatum,fast,before,b,4,0.024
+Chlorophytum comosum variegatum,fast,before,c,4,0.022
+Chlorophytum comosum variegatum,fast,before,d,4,0.021
+Nematanthus wettsteinii,fast,before,a,1,0.03
+Nematanthus wettsteinii,fast,before,b,1,0.026
+Nematanthus wettsteinii,fast,before,c,1,0.024
+Nematanthus wettsteinii,fast,before,d,1,0.022
+Nematanthus wettsteinii,fast,before,a,2,0.031
+Nematanthus wettsteinii,fast,before,b,2,0.025
+Nematanthus wettsteinii,fast,before,c,2,0.022
+Nematanthus wettsteinii,fast,before,d,2,0.014
+Nematanthus wettsteinii,fast,before,a,3,0.023
+Nematanthus wettsteinii,fast,before,b,3,0.027
+Nematanthus wettsteinii,fast,before,c,3,0.024
+Nematanthus wettsteinii,fast,before,d,3,0.02
+Nematanthus wettsteinii,fast,before,a,4,0.02
+Nematanthus wettsteinii,fast,before,b,4,0.021
+Nematanthus wettsteinii,fast,before,c,4,0.025
+Nematanthus wettsteinii,fast,before,d,4,0.019
+Nematanthus wettsteinii,fast,before,a,1,0.034
+Nematanthus wettsteinii,fast,before,b,1,0.031
+Nematanthus wettsteinii,fast,before,c,1,0.028
+Nematanthus wettsteinii,fast,before,d,1,0.039
+Nematanthus wettsteinii,fast,before,a,2,0.066
+Nematanthus wettsteinii,fast,before,b,2,0.048
+Nematanthus wettsteinii,fast,before,c,2,0.039
+Nematanthus wettsteinii,fast,before,d,2,0.03
+Nematanthus wettsteinii,fast,before,a,3,0.089
+Nematanthus wettsteinii,fast,before,b,3,0.103
+Nematanthus wettsteinii,fast,before,c,3,0.056
+Nematanthus wettsteinii,fast,before,d,3,0.058
+Nematanthus wettsteinii,fast,before,a,4,0.087
+Nematanthus wettsteinii,fast,before,b,4,0.095
+Nematanthus wettsteinii,fast,before,c,4,0.098
+Nematanthus wettsteinii,fast,before,d,4,0.086
+Nematanthus wettsteinii,fast,before,a,1,0.038
+Nematanthus wettsteinii,fast,before,b,1,0.03
+Nematanthus wettsteinii,fast,before,c,1,0.039
+Nematanthus wettsteinii,fast,before,d,1,0.032
+Nematanthus wettsteinii,fast,before,a,2,0.044
+Nematanthus wettsteinii,fast,before,b,2,0.061
+Nematanthus wettsteinii,fast,before,c,2,0.048
+Nematanthus wettsteinii,fast,before,d,2,0.042
+Nematanthus wettsteinii,fast,before,a,3,0.066
+Nematanthus wettsteinii,fast,before,b,3,0.044
+Nematanthus wettsteinii,fast,before,c,3,0.07
+Nematanthus wettsteinii,fast,before,d,3,0.033
+Nematanthus wettsteinii,fast,before,a,4,0.037
+Nematanthus wettsteinii,fast,before,b,4,0.052
+Nematanthus wettsteinii,fast,before,c,4,0.06
+Nematanthus wettsteinii,fast,before,d,4,0.054
+Spathiphyllum Chico,fast,before,a,1,0.013
+Spathiphyllum Chico,fast,before,b,1,0.034
+Spathiphyllum Chico,fast,before,c,1,0.022
+Spathiphyllum Chico,fast,before,d,1,0.022
+Spathiphyllum Chico,fast,before,a,2,0.019
+Spathiphyllum Chico,fast,before,b,2,0.02
+Spathiphyllum Chico,fast,before,c,2,0.021
+Spathiphyllum Chico,fast,before,d,2,0.019
+Spathiphyllum Chico,fast,before,a,3,0.02
+Spathiphyllum Chico,fast,before,b,3,0.03
+Spathiphyllum Chico,fast,before,c,3,0.019
+Spathiphyllum Chico,fast,before,d,3,0.039
+Spathiphyllum Chico,fast,before,a,4,0.016
+Spathiphyllum Chico,fast,before,b,4,0.019
+Spathiphyllum Chico,fast,before,c,4,0.052
+Spathiphyllum Chico,fast,before,d,4,0.032
+Spathiphyllum Chico,fast,before,a,1,0.026
+Spathiphyllum Chico,fast,before,b,1,0.034
+Spathiphyllum Chico,fast,before,c,1,0.03
+Spathiphyllum Chico,fast,before,d,1,0.036
+Spathiphyllum Chico,fast,before,a,2,0.034
+Spathiphyllum Chico,fast,before,b,2,0.074
+Spathiphyllum Chico,fast,before,c,2,0.051
+Spathiphyllum Chico,fast,before,d,2,0.031
+Spathiphyllum Chico,fast,before,a,3,0.042
+Spathiphyllum Chico,fast,before,b,3,0.046
+Spathiphyllum Chico,fast,before,c,3,0.079
+Spathiphyllum Chico,fast,before,d,3,0.044
+Spathiphyllum Chico,fast,before,a,4,0.05
+Spathiphyllum Chico,fast,before,b,4,0.061
+Spathiphyllum Chico,fast,before,c,4,0.042
+Spathiphyllum Chico,fast,before,d,4,0.033
+Spathiphyllum Chico,fast,before,a,1,0.02
+Spathiphyllum Chico,fast,before,b,1,0.02
+Spathiphyllum Chico,fast,before,c,1,0.021
+Spathiphyllum Chico,fast,before,d,1,0.018
+Spathiphyllum Chico,fast,before,a,2,0.041
+Spathiphyllum Chico,fast,before,b,2,0.034
+Spathiphyllum Chico,fast,before,c,2,0.051
+Spathiphyllum Chico,fast,before,d,2,0.035
+Spathiphyllum Chico,fast,before,a,3,0.037
+Spathiphyllum Chico,fast,before,b,3,0.044
+Spathiphyllum Chico,fast,before,c,3,0.062
+Spathiphyllum Chico,fast,before,d,3,0.049
+Spathiphyllum Chico,fast,before,a,4,0.064
+Spathiphyllum Chico,fast,before,b,4,0.091
+Spathiphyllum Chico,fast,before,c,4,0.088
+Spathiphyllum Chico,fast,before,d,4,0.105
+Philodendron hederaceum & Philodendron erubescens,fast,before,a,1,0.033
+Philodendron hederaceum & Philodendron erubescens,fast,before,b,1,0.036
+Philodendron hederaceum & Philodendron erubescens,fast,before,c,1,0.044
+Philodendron hederaceum & Philodendron erubescens,fast,before,d,1,0.047
+Philodendron hederaceum & Philodendron erubescens,fast,before,a,2,0.05
+Philodendron hederaceum & Philodendron erubescens,fast,before,b,2,0.066
+Philodendron hederaceum & Philodendron erubescens,fast,before,c,2,0.062
+Philodendron hederaceum & Philodendron erubescens,fast,before,d,2,0.037
+Philodendron hederaceum & Philodendron erubescens,fast,before,a,3,0.093
+Philodendron hederaceum & Philodendron erubescens,fast,before,b,3,0.009
+Philodendron hederaceum & Philodendron erubescens,fast,before,c,3,0.058
+Philodendron hederaceum & Philodendron erubescens,fast,before,d,3,0.039
+Philodendron hederaceum & Philodendron erubescens,fast,before,a,4,0.13
+Philodendron hederaceum & Philodendron erubescens,fast,before,b,4,0.127
+Philodendron hederaceum & Philodendron erubescens,fast,before,c,4,0.101
+Philodendron hederaceum & Philodendron erubescens,fast,before,d,4,0.093
+Philodendron hederaceum & Philodendron erubescens,fast,before,a,1,0.038
+Philodendron hederaceum & Philodendron erubescens,fast,before,b,1,0.046
+Philodendron hederaceum & Philodendron erubescens,fast,before,c,1,0.06
+Philodendron hederaceum & Philodendron erubescens,fast,before,d,1,0.044
+Philodendron hederaceum & Philodendron erubescens,fast,before,a,2,0.032
+Philodendron hederaceum & Philodendron erubescens,fast,before,b,2,0.068
+Philodendron hederaceum & Philodendron erubescens,fast,before,c,2,0.069
+Philodendron hederaceum & Philodendron erubescens,fast,before,d,2,0.057
+Philodendron hederaceum & Philodendron erubescens,fast,before,a,3,0.034
+Philodendron hederaceum & Philodendron erubescens,fast,before,b,3,0.073
+Philodendron hederaceum & Philodendron erubescens,fast,before,c,3,0.083
+Philodendron hederaceum & Philodendron erubescens,fast,before,d,3,0.083
+Philodendron hederaceum & Philodendron erubescens,fast,before,a,4,0.057
+Philodendron hederaceum & Philodendron erubescens,fast,before,b,4,0.086
+Philodendron hederaceum & Philodendron erubescens,fast,before,c,4,0.132
+Philodendron hederaceum & Philodendron erubescens,fast,before,d,4,0.11
+Philodendron hederaceum & Philodendron erubescens,fast,before,a,1,0.044
+Philodendron hederaceum & Philodendron erubescens,fast,before,b,1,0.064
+Philodendron hederaceum & Philodendron erubescens,fast,before,c,1,0.05
+Philodendron hederaceum & Philodendron erubescens,fast,before,d,1,0.034
+Philodendron hederaceum & Philodendron erubescens,fast,before,a,2,0.07
+Philodendron hederaceum & Philodendron erubescens,fast,before,b,2,0.068
+Philodendron hederaceum & Philodendron erubescens,fast,before,c,2,0.053
+Philodendron hederaceum & Philodendron erubescens,fast,before,d,2,0.028
+Philodendron hederaceum & Philodendron erubescens,fast,before,a,3,0.06
+Philodendron hederaceum & Philodendron erubescens,fast,before,b,3,0.054
+Philodendron hederaceum & Philodendron erubescens,fast,before,c,3,0.033
+Philodendron hederaceum & Philodendron erubescens,fast,before,d,3,0.028
+Philodendron hederaceum & Philodendron erubescens,fast,before,a,4,0.072
+Philodendron hederaceum & Philodendron erubescens,fast,before,b,4,0.091
+Philodendron hederaceum & Philodendron erubescens,fast,before,c,4,0.088
+Philodendron hederaceum & Philodendron erubescens,fast,before,d,4,0.064
+Peperomia obtusifolia,fast,before,a,1,0.04
+Peperomia obtusifolia,fast,before,b,1,0.067
+Peperomia obtusifolia,fast,before,c,1,0.025
+Peperomia obtusifolia,fast,before,d,1,0.03
+Peperomia obtusifolia,fast,before,a,2,0.062
+Peperomia obtusifolia,fast,before,b,2,0.07
+Peperomia obtusifolia,fast,before,c,2,0.059
+Peperomia obtusifolia,fast,before,d,2,0.041
+Peperomia obtusifolia,fast,before,a,3,0.091
+Peperomia obtusifolia,fast,before,b,3,0.106
+Peperomia obtusifolia,fast,before,c,3,0.138
+Peperomia obtusifolia,fast,before,d,3,0.09
+Peperomia obtusifolia,fast,before,a,4,0.112
+Peperomia obtusifolia,fast,before,b,4,0.118
+Peperomia obtusifolia,fast,before,c,4,0.138
+Peperomia obtusifolia,fast,before,d,4,0.083
+Peperomia obtusifolia,fast,before,a,1,0.056
+Peperomia obtusifolia,fast,before,b,1,0.072
+Peperomia obtusifolia,fast,before,c,1,0.083
+Peperomia obtusifolia,fast,before,d,1,0.033
+Peperomia obtusifolia,fast,before,a,2,0.074
+Peperomia obtusifolia,fast,before,b,2,0.109
+Peperomia obtusifolia,fast,before,c,2,0.088
+Peperomia obtusifolia,fast,before,d,2,0.072
+Peperomia obtusifolia,fast,before,a,3,0.114
+Peperomia obtusifolia,fast,before,b,3,0.083
+Peperomia obtusifolia,fast,before,c,3,0.121
+Peperomia obtusifolia,fast,before,d,3,0.097
+Peperomia obtusifolia,fast,before,a,4,0.085
+Peperomia obtusifolia,fast,before,b,4,0.125
+Peperomia obtusifolia,fast,before,c,4,0.133
+Peperomia obtusifolia,fast,before,d,4,0.092
+Peperomia obtusifolia,fast,before,a,1,0.067
+Peperomia obtusifolia,fast,before,b,1,0.096
+Peperomia obtusifolia,fast,before,c,1,0.077
+Peperomia obtusifolia,fast,before,d,1,0.067
+Peperomia obtusifolia,fast,before,a,2,0.103
+Peperomia obtusifolia,fast,before,b,2,0.136
+Peperomia obtusifolia,fast,before,c,2,0.137
+Peperomia obtusifolia,fast,before,d,2,0.137
+Peperomia obtusifolia,fast,before,a,3,0.115
+Peperomia obtusifolia,fast,before,b,3,0.14
+Peperomia obtusifolia,fast,before,c,3,0.173
+Peperomia obtusifolia,fast,before,d,3,0.139
+Peperomia obtusifolia,fast,before,a,4,0.127
+Peperomia obtusifolia,fast,before,b,4,0.165
+Peperomia obtusifolia,fast,before,c,4,0.209
+Peperomia obtusifolia,fast,before,d,4,0.123
+Substrate only,fast,after,a,1,0.108
+Substrate only,fast,after,b,1,0.166
+Substrate only,fast,after,c,1,0.132
+Substrate only,fast,after,d,1,0.155
+Substrate only,fast,after,a,2,0.129
+Substrate only,fast,after,b,2,0.265
+Substrate only,fast,after,c,2,0.206
+Substrate only,fast,after,d,2,0.232
+Substrate only,fast,after,a,3,0.216
+Substrate only,fast,after,b,3,0.242
+Substrate only,fast,after,c,3,0.282
+Substrate only,fast,after,d,3,0.194
+Substrate only,fast,after,a,4,0.245
+Substrate only,fast,after,b,4,0.278
+Substrate only,fast,after,c,4,0.228
+Substrate only,fast,after,d,4,0.188
+Substrate only,fast,after,a,1,0.058
+Substrate only,fast,after,b,1,0.021
+Substrate only,fast,after,c,1,0.049
+Substrate only,fast,after,d,1,0.02
+Substrate only,fast,after,a,2,0.037
+Substrate only,fast,after,b,2,0.181
+Substrate only,fast,after,c,2,0.183
+Substrate only,fast,after,d,2,0.253
+Substrate only,fast,after,a,3,0.256
+Substrate only,fast,after,b,3,0.182
+Substrate only,fast,after,c,3,0.239
+Substrate only,fast,after,d,3,0.108
+Substrate only,fast,after,a,4,0.245
+Substrate only,fast,after,b,4,0.269
+Substrate only,fast,after,c,4,0.281
+Substrate only,fast,after,d,4,0.291
+Substrate only,fast,after,a,1,0.239
+Substrate only,fast,after,b,1,0.185
+Substrate only,fast,after,c,1,0.255
+Substrate only,fast,after,d,1,0.071
+Substrate only,fast,after,a,2,0.115
+Substrate only,fast,after,b,2,0.254
+Substrate only,fast,after,c,2,0.269
+Substrate only,fast,after,d,2,0.275
+Substrate only,fast,after,a,3,0.269
+Substrate only,fast,after,b,3,0.128
+Substrate only,fast,after,c,3,0.302
+Substrate only,fast,after,d,3,0.24
+Substrate only,fast,after,a,4,0.254
+Substrate only,fast,after,b,4,0.263
+Substrate only,fast,after,c,4,0.283
+Substrate only,fast,after,d,4,0.245
+Spathiphyllum wallisii ,fast,after,a,1,0.111
+Spathiphyllum wallisii ,fast,after,b,1,0.02
+Spathiphyllum wallisii ,fast,after,c,1,0.027
+Spathiphyllum wallisii ,fast,after,d,1,0.127
+Spathiphyllum wallisii ,fast,after,a,2,0.037
+Spathiphyllum wallisii ,fast,after,b,2,0.059
+Spathiphyllum wallisii ,fast,after,c,2,0.142
+Spathiphyllum wallisii ,fast,after,d,2,0.238
+Spathiphyllum wallisii ,fast,after,a,3,0.136
+Spathiphyllum wallisii ,fast,after,b,3,0.099
+Spathiphyllum wallisii ,fast,after,c,3,0.181
+Spathiphyllum wallisii ,fast,after,d,3,0.142
+Spathiphyllum wallisii ,fast,after,a,4,0.107
+Spathiphyllum wallisii ,fast,after,b,4,0.169
+Spathiphyllum wallisii ,fast,after,c,4,0.244
+Spathiphyllum wallisii ,fast,after,d,4,0.246
+Spathiphyllum wallisii ,fast,after,a,1,0.063
+Spathiphyllum wallisii ,fast,after,b,1,0.162
+Spathiphyllum wallisii ,fast,after,c,1,0.053
+Spathiphyllum wallisii ,fast,after,d,1,0.032
+Spathiphyllum wallisii ,fast,after,a,2,0.104
+Spathiphyllum wallisii ,fast,after,b,2,0.199
+Spathiphyllum wallisii ,fast,after,c,2,0.039
+Spathiphyllum wallisii ,fast,after,d,2,0.052
+Spathiphyllum wallisii ,fast,after,a,3,0.082
+Spathiphyllum wallisii ,fast,after,b,3,0.276
+Spathiphyllum wallisii ,fast,after,c,3,0.065
+Spathiphyllum wallisii ,fast,after,d,3,0.065
+Spathiphyllum wallisii ,fast,after,a,4,0.287
+Spathiphyllum wallisii ,fast,after,b,4,0.303
+Spathiphyllum wallisii ,fast,after,c,4,0.242
+Spathiphyllum wallisii ,fast,after,d,4,0.254
+Spathiphyllum wallisii ,fast,after,a,1,0.109
+Spathiphyllum wallisii ,fast,after,b,1,0.076
+Spathiphyllum wallisii ,fast,after,c,1,0.079
+Spathiphyllum wallisii ,fast,after,d,1,0.032
+Spathiphyllum wallisii ,fast,after,a,2,0.121
+Spathiphyllum wallisii ,fast,after,b,2,0.235
+Spathiphyllum wallisii ,fast,after,c,2,0.21
+Spathiphyllum wallisii ,fast,after,d,2,0.223
+Spathiphyllum wallisii ,fast,after,a,3,0.224
+Spathiphyllum wallisii ,fast,after,b,3,0.266
+Spathiphyllum wallisii ,fast,after,c,3,0.223
+Spathiphyllum wallisii ,fast,after,d,3,0.289
+Spathiphyllum wallisii ,fast,after,a,4,0.297
+Spathiphyllum wallisii ,fast,after,b,4,0.296
+Spathiphyllum wallisii ,fast,after,c,4,0.254
+Spathiphyllum wallisii ,fast,after,d,4,0.284
+Chlorophytum comosum variegatum,fast,after,a,1,0.061
+Chlorophytum comosum variegatum,fast,after,b,1,0.082
+Chlorophytum comosum variegatum,fast,after,c,1,0.071
+Chlorophytum comosum variegatum,fast,after,d,1,0.021
+Chlorophytum comosum variegatum,fast,after,a,2,0.103
+Chlorophytum comosum variegatum,fast,after,b,2,0.14
+Chlorophytum comosum variegatum,fast,after,c,2,0.095
+Chlorophytum comosum variegatum,fast,after,d,2,0.027
+Chlorophytum comosum variegatum,fast,after,a,3,0.091
+Chlorophytum comosum variegatum,fast,after,b,3,0.111
+Chlorophytum comosum variegatum,fast,after,c,3,0.178
+Chlorophytum comosum variegatum,fast,after,d,3,0.03
+Chlorophytum comosum variegatum,fast,after,a,4,0.07
+Chlorophytum comosum variegatum,fast,after,b,4,0.142
+Chlorophytum comosum variegatum,fast,after,c,4,0.198
+Chlorophytum comosum variegatum,fast,after,d,4,0.099
+Chlorophytum comosum variegatum,fast,after,a,1,0.157
+Chlorophytum comosum variegatum,fast,after,b,1,0.066
+Chlorophytum comosum variegatum,fast,after,c,1,0.13
+Chlorophytum comosum variegatum,fast,after,d,1,0.045
+Chlorophytum comosum variegatum,fast,after,a,2,0.118
+Chlorophytum comosum variegatum,fast,after,b,2,0.183
+Chlorophytum comosum variegatum,fast,after,c,2,0.155
+Chlorophytum comosum variegatum,fast,after,d,2,0.031
+Chlorophytum comosum variegatum,fast,after,a,3,0.154
+Chlorophytum comosum variegatum,fast,after,b,3,0.233
+Chlorophytum comosum variegatum,fast,after,c,3,0.112
+Chlorophytum comosum variegatum,fast,after,d,3,0.093
+Chlorophytum comosum variegatum,fast,after,a,4,0.281
+Chlorophytum comosum variegatum,fast,after,b,4,0.231
+Chlorophytum comosum variegatum,fast,after,c,4,0.267
+Chlorophytum comosum variegatum,fast,after,d,4,0.118
+Chlorophytum comosum variegatum,fast,after,a,1,0.11
+Chlorophytum comosum variegatum,fast,after,b,1,0.149
+Chlorophytum comosum variegatum,fast,after,c,1,0.104
+Chlorophytum comosum variegatum,fast,after,d,1,0.087
+Chlorophytum comosum variegatum,fast,after,a,2,0.228
+Chlorophytum comosum variegatum,fast,after,b,2,0.192
+Chlorophytum comosum variegatum,fast,after,c,2,0.073
+Chlorophytum comosum variegatum,fast,after,d,2,0.154
+Chlorophytum comosum variegatum,fast,after,a,3,0.142
+Chlorophytum comosum variegatum,fast,after,b,3,0.202
+Chlorophytum comosum variegatum,fast,after,c,3,0.182
+Chlorophytum comosum variegatum,fast,after,d,3,0.16
+Chlorophytum comosum variegatum,fast,after,a,4,0.088
+Chlorophytum comosum variegatum,fast,after,b,4,0.074
+Chlorophytum comosum variegatum,fast,after,c,4,0.155
+Chlorophytum comosum variegatum,fast,after,d,4,0.13
+Nematanthus wettsteinii,fast,after,a,1,0.069
+Nematanthus wettsteinii,fast,after,b,1,0.15
+Nematanthus wettsteinii,fast,after,c,1,0.058
+Nematanthus wettsteinii,fast,after,d,1,0.029
+Nematanthus wettsteinii,fast,after,a,2,0.209
+Nematanthus wettsteinii,fast,after,b,2,0.029
+Nematanthus wettsteinii,fast,after,c,2,0.101
+Nematanthus wettsteinii,fast,after,d,2,0.026
+Nematanthus wettsteinii,fast,after,a,3,0.151
+Nematanthus wettsteinii,fast,after,b,3,0.034
+Nematanthus wettsteinii,fast,after,c,3,0.059
+Nematanthus wettsteinii,fast,after,d,3,0.03
+Nematanthus wettsteinii,fast,after,a,4,0.296
+Nematanthus wettsteinii,fast,after,b,4,0.052
+Nematanthus wettsteinii,fast,after,c,4,0.169
+Nematanthus wettsteinii,fast,after,d,4,0.068
+Nematanthus wettsteinii,fast,after,a,1,0.101
+Nematanthus wettsteinii,fast,after,b,1,0.119
+Nematanthus wettsteinii,fast,after,c,1,0.135
+Nematanthus wettsteinii,fast,after,d,1,0.06
+Nematanthus wettsteinii,fast,after,a,2,0.28
+Nematanthus wettsteinii,fast,after,b,2,0.223
+Nematanthus wettsteinii,fast,after,c,2,0.162
+Nematanthus wettsteinii,fast,after,d,2,0.168
+Nematanthus wettsteinii,fast,after,a,3,0.329
+Nematanthus wettsteinii,fast,after,b,3,0.311
+Nematanthus wettsteinii,fast,after,c,3,0.259
+Nematanthus wettsteinii,fast,after,d,3,0.245
+Nematanthus wettsteinii,fast,after,a,4,0.33
+Nematanthus wettsteinii,fast,after,b,4,0.368
+Nematanthus wettsteinii,fast,after,c,4,0.3
+Nematanthus wettsteinii,fast,after,d,4,0.309
+Nematanthus wettsteinii,fast,after,a,1,0.215
+Nematanthus wettsteinii,fast,after,b,1,0.231
+Nematanthus wettsteinii,fast,after,c,1,0.14
+Nematanthus wettsteinii,fast,after,d,1,0.037
+Nematanthus wettsteinii,fast,after,a,2,0.279
+Nematanthus wettsteinii,fast,after,b,2,0.225
+Nematanthus wettsteinii,fast,after,c,2,0.291
+Nematanthus wettsteinii,fast,after,d,2,0.186
+Nematanthus wettsteinii,fast,after,a,3,0.345
+Nematanthus wettsteinii,fast,after,b,3,0.253
+Nematanthus wettsteinii,fast,after,c,3,0.231
+Nematanthus wettsteinii,fast,after,d,3,0.25
+Nematanthus wettsteinii,fast,after,a,4,0.269
+Nematanthus wettsteinii,fast,after,b,4,0.231
+Nematanthus wettsteinii,fast,after,c,4,0.309
+Nematanthus wettsteinii,fast,after,d,4,0.273
+Spathiphyllum Chico,fast,after,a,1,0.041
+Spathiphyllum Chico,fast,after,b,1,0.092
+Spathiphyllum Chico,fast,after,c,1,0.055
+Spathiphyllum Chico,fast,after,d,1,0.118
+Spathiphyllum Chico,fast,after,a,2,0.191
+Spathiphyllum Chico,fast,after,b,2,0.106
+Spathiphyllum Chico,fast,after,c,2,0.16
+Spathiphyllum Chico,fast,after,d,2,0.043
+Spathiphyllum Chico,fast,after,a,3,0.234
+Spathiphyllum Chico,fast,after,b,3,0.179
+Spathiphyllum Chico,fast,after,c,3,0.114
+Spathiphyllum Chico,fast,after,d,3,0.06
+Spathiphyllum Chico,fast,after,a,4,0.16
+Spathiphyllum Chico,fast,after,b,4,0.219
+Spathiphyllum Chico,fast,after,c,4,0.283
+Spathiphyllum Chico,fast,after,d,4,0.277
+Spathiphyllum Chico,fast,after,a,1,0.226
+Spathiphyllum Chico,fast,after,b,1,0.201666667
+Spathiphyllum Chico,fast,after,c,1,0.200555556
+Spathiphyllum Chico,fast,after,d,1,0.174
+Spathiphyllum Chico,fast,after,a,2,0.291
+Spathiphyllum Chico,fast,after,b,2,0.251
+Spathiphyllum Chico,fast,after,c,2,0.236
+Spathiphyllum Chico,fast,after,d,2,0.249666667
+Spathiphyllum Chico,fast,after,a,3,0.258666667
+Spathiphyllum Chico,fast,after,b,3,0.227333333
+Spathiphyllum Chico,fast,after,c,3,0.283333333
+Spathiphyllum Chico,fast,after,d,3,0.252333333
+Spathiphyllum Chico,fast,after,a,4,0.276666667
+Spathiphyllum Chico,fast,after,b,4,0.275666667
+Spathiphyllum Chico,fast,after,c,4,0.283
+Spathiphyllum Chico,fast,after,d,4,0.279333333
+Spathiphyllum Chico,fast,after,a,1,0.027
+Spathiphyllum Chico,fast,after,b,1,0.018
+Spathiphyllum Chico,fast,after,c,1,0.064
+Spathiphyllum Chico,fast,after,d,1,0.136
+Spathiphyllum Chico,fast,after,a,2,0.055
+Spathiphyllum Chico,fast,after,b,2,0.075
+Spathiphyllum Chico,fast,after,c,2,0.192
+Spathiphyllum Chico,fast,after,d,2,0.161
+Spathiphyllum Chico,fast,after,a,3,0.187
+Spathiphyllum Chico,fast,after,b,3,0.103
+Spathiphyllum Chico,fast,after,c,3,0.242
+Spathiphyllum Chico,fast,after,d,3,0.186
+Spathiphyllum Chico,fast,after,a,4,0.296
+Spathiphyllum Chico,fast,after,b,4,0.257
+Spathiphyllum Chico,fast,after,c,4,0.268
+Spathiphyllum Chico,fast,after,d,4,0.269
+Philodendron hederaceum & Philodendron erubescens,fast,after,a,1,0.149
+Philodendron hederaceum & Philodendron erubescens,fast,after,b,1,0.044
+Philodendron hederaceum & Philodendron erubescens,fast,after,c,1,0.278
+Philodendron hederaceum & Philodendron erubescens,fast,after,d,1,0.144
+Philodendron hederaceum & Philodendron erubescens,fast,after,a,2,0.138
+Philodendron hederaceum & Philodendron erubescens,fast,after,b,2,0.248
+Philodendron hederaceum & Philodendron erubescens,fast,after,c,2,0.273
+Philodendron hederaceum & Philodendron erubescens,fast,after,d,2,0.165
+Philodendron hederaceum & Philodendron erubescens,fast,after,a,3,0.159
+Philodendron hederaceum & Philodendron erubescens,fast,after,b,3,0.254
+Philodendron hederaceum & Philodendron erubescens,fast,after,c,3,0.251
+Philodendron hederaceum & Philodendron erubescens,fast,after,d,3,0.278
+Philodendron hederaceum & Philodendron erubescens,fast,after,a,4,0.275
+Philodendron hederaceum & Philodendron erubescens,fast,after,b,4,0.252
+Philodendron hederaceum & Philodendron erubescens,fast,after,c,4,0.307
+Philodendron hederaceum & Philodendron erubescens,fast,after,d,4,0.373
+Philodendron hederaceum & Philodendron erubescens,fast,after,a,1,0.107
+Philodendron hederaceum & Philodendron erubescens,fast,after,b,1,0.116
+Philodendron hederaceum & Philodendron erubescens,fast,after,c,1,0.131
+Philodendron hederaceum & Philodendron erubescens,fast,after,d,1,0.162
+Philodendron hederaceum & Philodendron erubescens,fast,after,a,2,0.154
+Philodendron hederaceum & Philodendron erubescens,fast,after,b,2,0.175
+Philodendron hederaceum & Philodendron erubescens,fast,after,c,2,0.184
+Philodendron hederaceum & Philodendron erubescens,fast,after,d,2,0.219
+Philodendron hederaceum & Philodendron erubescens,fast,after,a,3,0.185
+Philodendron hederaceum & Philodendron erubescens,fast,after,b,3,0.25
+Philodendron hederaceum & Philodendron erubescens,fast,after,c,3,0.27
+Philodendron hederaceum & Philodendron erubescens,fast,after,d,3,0.249
+Philodendron hederaceum & Philodendron erubescens,fast,after,a,4,0.24
+Philodendron hederaceum & Philodendron erubescens,fast,after,b,4,0.284
+Philodendron hederaceum & Philodendron erubescens,fast,after,c,4,0.256
+Philodendron hederaceum & Philodendron erubescens,fast,after,d,4,0.266
+Philodendron hederaceum & Philodendron erubescens,fast,after,a,1,0.249
+Philodendron hederaceum & Philodendron erubescens,fast,after,b,1,0.166
+Philodendron hederaceum & Philodendron erubescens,fast,after,c,1,0.2
+Philodendron hederaceum & Philodendron erubescens,fast,after,d,1,0.061
+Philodendron hederaceum & Philodendron erubescens,fast,after,a,2,0.283
+Philodendron hederaceum & Philodendron erubescens,fast,after,b,2,0.219
+Philodendron hederaceum & Philodendron erubescens,fast,after,c,2,0.183
+Philodendron hederaceum & Philodendron erubescens,fast,after,d,2,0.103
+Philodendron hederaceum & Philodendron erubescens,fast,after,a,3,0.255
+Philodendron hederaceum & Philodendron erubescens,fast,after,b,3,0.188
+Philodendron hederaceum & Philodendron erubescens,fast,after,c,3,0.23
+Philodendron hederaceum & Philodendron erubescens,fast,after,d,3,0.157
+Philodendron hederaceum & Philodendron erubescens,fast,after,a,4,0.289
+Philodendron hederaceum & Philodendron erubescens,fast,after,b,4,0.286
+Philodendron hederaceum & Philodendron erubescens,fast,after,c,4,0.281
+Philodendron hederaceum & Philodendron erubescens,fast,after,d,4,0.251
+Peperomia obtusifolia,fast,after,a,1,0.122
+Peperomia obtusifolia,fast,after,b,1,0.19
+Peperomia obtusifolia,fast,after,c,1,0.077
+Peperomia obtusifolia,fast,after,d,1,0.121
+Peperomia obtusifolia,fast,after,a,2,0.277
+Peperomia obtusifolia,fast,after,b,2,0.251
+Peperomia obtusifolia,fast,after,c,2,0.214
+Peperomia obtusifolia,fast,after,d,2,0.24
+Peperomia obtusifolia,fast,after,a,3,0.228
+Peperomia obtusifolia,fast,after,b,3,0.234
+Peperomia obtusifolia,fast,after,c,3,0.381
+Peperomia obtusifolia,fast,after,d,3,0.261
+Peperomia obtusifolia,fast,after,a,4,0.25
+Peperomia obtusifolia,fast,after,b,4,0.262
+Peperomia obtusifolia,fast,after,c,4,0.273
+Peperomia obtusifolia,fast,after,d,4,0.26
+Peperomia obtusifolia,fast,after,a,1,0.305
+Peperomia obtusifolia,fast,after,b,1,0.238
+Peperomia obtusifolia,fast,after,c,1,0.202
+Peperomia obtusifolia,fast,after,d,1,0.152
+Peperomia obtusifolia,fast,after,a,2,0.315
+Peperomia obtusifolia,fast,after,b,2,0.253
+Peperomia obtusifolia,fast,after,c,2,0.27
+Peperomia obtusifolia,fast,after,d,2,0.273
+Peperomia obtusifolia,fast,after,a,3,0.293
+Peperomia obtusifolia,fast,after,b,3,0.238
+Peperomia obtusifolia,fast,after,c,3,0.251
+Peperomia obtusifolia,fast,after,d,3,0.268
+Peperomia obtusifolia,fast,after,a,4,0.291
+Peperomia obtusifolia,fast,after,b,4,0.279
+Peperomia obtusifolia,fast,after,c,4,0.273
+Peperomia obtusifolia,fast,after,d,4,0.29
+Peperomia obtusifolia,fast,after,a,1,0.251
+Peperomia obtusifolia,fast,after,b,1,0.177
+Peperomia obtusifolia,fast,after,c,1,0.186
+Peperomia obtusifolia,fast,after,d,1,0.249
+Peperomia obtusifolia,fast,after,a,2,0.281
+Peperomia obtusifolia,fast,after,b,2,0.249
+Peperomia obtusifolia,fast,after,c,2,0.224
+Peperomia obtusifolia,fast,after,d,2,0.236
+Peperomia obtusifolia,fast,after,a,3,0.255
+Peperomia obtusifolia,fast,after,b,3,0.21
+Peperomia obtusifolia,fast,after,c,3,0.218
+Peperomia obtusifolia,fast,after,d,3,0.228
+Peperomia obtusifolia,fast,after,a,4,0.289
+Peperomia obtusifolia,fast,after,b,4,0.286
+Peperomia obtusifolia,fast,after,c,4,0.303
+Peperomia obtusifolia,fast,after,d,4,0.288
+Spathiphyllum wallisii ,slow,before,a,1,0.019
+Spathiphyllum wallisii ,slow,before,b,1,0.022
+Spathiphyllum wallisii ,slow,before,c,1,0.021
+Spathiphyllum wallisii ,slow,before,d,1,0.041
+Spathiphyllum wallisii ,slow,before,a,2,0.025
+Spathiphyllum wallisii ,slow,before,b,2,0.04
+Spathiphyllum wallisii ,slow,before,c,2,0.035
+Spathiphyllum wallisii ,slow,before,d,2,0.031
+Spathiphyllum wallisii ,slow,before,a,3,0.024
+Spathiphyllum wallisii ,slow,before,b,3,0.029
+Spathiphyllum wallisii ,slow,before,c,3,0.033
+Spathiphyllum wallisii ,slow,before,d,3,0.03
+Spathiphyllum wallisii ,slow,before,a,4,0.027
+Spathiphyllum wallisii ,slow,before,b,4,0.031
+Spathiphyllum wallisii ,slow,before,c,4,0.041
+Spathiphyllum wallisii ,slow,before,d,4,0.086
+Spathiphyllum wallisii ,slow,after,a,1,0.04
+Spathiphyllum wallisii ,slow,after,b,1,0.027
+Spathiphyllum wallisii ,slow,after,c,1,0.094
+Spathiphyllum wallisii ,slow,after,d,1,0.139
+Spathiphyllum wallisii ,slow,after,a,2,0.056
+Spathiphyllum wallisii ,slow,after,b,2,0.031
+Spathiphyllum wallisii ,slow,after,c,2,0.122
+Spathiphyllum wallisii ,slow,after,d,2,0.046
+Spathiphyllum wallisii ,slow,after,a,3,0.073
+Spathiphyllum wallisii ,slow,after,b,3,0.097
+Spathiphyllum wallisii ,slow,after,c,3,0.183
+Spathiphyllum wallisii ,slow,after,d,3,0.033
+Spathiphyllum wallisii ,slow,after,a,4,0.039
+Spathiphyllum wallisii ,slow,after,b,4,0.208
+Spathiphyllum wallisii ,slow,after,c,4,0.069
+Spathiphyllum wallisii ,slow,after,d,4,0.122
+Chlorophytum comosum variegatum,slow,before,a,1,0.116
+Chlorophytum comosum variegatum,slow,before,b,1,0.133
+Chlorophytum comosum variegatum,slow,before,c,1,0.115
+Chlorophytum comosum variegatum,slow,before,d,1,0.062
+Chlorophytum comosum variegatum,slow,before,a,2,0.09
+Chlorophytum comosum variegatum,slow,before,b,2,0.047
+Chlorophytum comosum variegatum,slow,before,c,2,0.065
+Chlorophytum comosum variegatum,slow,before,d,2,0.052
+Chlorophytum comosum variegatum,slow,before,a,3,0.101
+Chlorophytum comosum variegatum,slow,before,b,3,0.153
+Chlorophytum comosum variegatum,slow,before,c,3,0.104
+Chlorophytum comosum variegatum,slow,before,d,3,0.099
+Chlorophytum comosum variegatum,slow,before,a,4,0.124
+Chlorophytum comosum variegatum,slow,before,b,4,0.11
+Chlorophytum comosum variegatum,slow,before,c,4,0.1
+Chlorophytum comosum variegatum,slow,before,d,4,0.103
+Chlorophytum comosum variegatum,slow,after,a,1,0.219
+Chlorophytum comosum variegatum,slow,after,b,1,0.239
+Chlorophytum comosum variegatum,slow,after,c,1,0.198
+Chlorophytum comosum variegatum,slow,after,d,1,0.16
+Chlorophytum comosum variegatum,slow,after,a,2,0.202
+Chlorophytum comosum variegatum,slow,after,b,2,0.201
+Chlorophytum comosum variegatum,slow,after,c,2,0.24
+Chlorophytum comosum variegatum,slow,after,d,2,0.104
+Chlorophytum comosum variegatum,slow,after,a,3,0.244
+Chlorophytum comosum variegatum,slow,after,b,3,0.287
+Chlorophytum comosum variegatum,slow,after,c,3,0.273
+Chlorophytum comosum variegatum,slow,after,d,3,0.235
+Chlorophytum comosum variegatum,slow,after,a,4,0.271
+Chlorophytum comosum variegatum,slow,after,b,4,0.33
+Chlorophytum comosum variegatum,slow,after,c,4,0.251
+Chlorophytum comosum variegatum,slow,after,d,4,0.151
+Nematanthus wettsteinii,slow,before,a,1,0.024
+Nematanthus wettsteinii,slow,before,b,1,0.045
+Nematanthus wettsteinii,slow,before,c,1,0.025
+Nematanthus wettsteinii,slow,before,d,1,0.026
+Nematanthus wettsteinii,slow,before,a,2,0.087
+Nematanthus wettsteinii,slow,before,b,2,0.043
+Nematanthus wettsteinii,slow,before,c,2,0.081
+Nematanthus wettsteinii,slow,before,d,2,0.028
+Nematanthus wettsteinii,slow,before,a,3,0.09
+Nematanthus wettsteinii,slow,before,b,3,0.05
+Nematanthus wettsteinii,slow,before,c,3,0.075
+Nematanthus wettsteinii,slow,before,d,3,0.051
+Nematanthus wettsteinii,slow,before,a,4,0.106
+Nematanthus wettsteinii,slow,before,b,4,0.065
+Nematanthus wettsteinii,slow,before,c,4,0.07
+Nematanthus wettsteinii,slow,before,d,4,0.063
+Nematanthus wettsteinii,slow,after,a,1,0.119
+Nematanthus wettsteinii,slow,after,b,1,0.173
+Nematanthus wettsteinii,slow,after,c,1,0.098
+Nematanthus wettsteinii,slow,after,d,1,0.025
+Nematanthus wettsteinii,slow,after,a,2,0.291
+Nematanthus wettsteinii,slow,after,b,2,0.172
+Nematanthus wettsteinii,slow,after,c,2,0.278
+Nematanthus wettsteinii,slow,after,d,2,0.051
+Nematanthus wettsteinii,slow,after,a,3,0.234
+Nematanthus wettsteinii,slow,after,b,3,0.102
+Nematanthus wettsteinii,slow,after,c,3,0.259
+Nematanthus wettsteinii,slow,after,d,3,0.166
+Nematanthus wettsteinii,slow,after,a,4,0.288
+Nematanthus wettsteinii,slow,after,b,4,0.223
+Nematanthus wettsteinii,slow,after,c,4,0.279
+Nematanthus wettsteinii,slow,after,d,4,0.254
+Spathiphyllum Chico,slow,before,a,1,0.015
+Spathiphyllum Chico,slow,before,b,1,0.085
+Spathiphyllum Chico,slow,before,c,1,0.086
+Spathiphyllum Chico,slow,before,d,1,0.063
+Spathiphyllum Chico,slow,before,a,2,0.081
+Spathiphyllum Chico,slow,before,b,2,0.139
+Spathiphyllum Chico,slow,before,c,2,0.164
+Spathiphyllum Chico,slow,before,d,2,0.078
+Spathiphyllum Chico,slow,before,a,3,0.195
+Spathiphyllum Chico,slow,before,b,3,0.135
+Spathiphyllum Chico,slow,before,c,3,0.194
+Spathiphyllum Chico,slow,before,d,3,0.105
+Spathiphyllum Chico,slow,before,a,4,0.251
+Spathiphyllum Chico,slow,before,b,4,0.196
+Spathiphyllum Chico,slow,before,c,4,0.18
+Spathiphyllum Chico,slow,before,d,4,0.138
+Spathiphyllum Chico,slow,after,a,1,0.063
+Spathiphyllum Chico,slow,after,b,1,0.177
+Spathiphyllum Chico,slow,after,c,1,0.156
+Spathiphyllum Chico,slow,after,d,1,0.167
+Spathiphyllum Chico,slow,after,a,2,0.188
+Spathiphyllum Chico,slow,after,b,2,0.265
+Spathiphyllum Chico,slow,after,c,2,0.29
+Spathiphyllum Chico,slow,after,d,2,0.119
+Spathiphyllum Chico,slow,after,a,3,0.245
+Spathiphyllum Chico,slow,after,b,3,0.265
+Spathiphyllum Chico,slow,after,c,3,0.297
+Spathiphyllum Chico,slow,after,d,3,0.254
+Spathiphyllum Chico,slow,after,a,4,0.279
+Spathiphyllum Chico,slow,after,b,4,0.369
+Spathiphyllum Chico,slow,after,c,4,0.335
+Spathiphyllum Chico,slow,after,d,4,0.238
+Philodendron hederaceum & Philodendron erubescens,slow,before,a,1,0.091
+Philodendron hederaceum & Philodendron erubescens,slow,before,b,1,0.095
+Philodendron hederaceum & Philodendron erubescens,slow,before,c,1,0.145
+Philodendron hederaceum & Philodendron erubescens,slow,before,d,1,0.089
+Philodendron hederaceum & Philodendron erubescens,slow,before,a,2,0.13
+Philodendron hederaceum & Philodendron erubescens,slow,before,b,2,0.129
+Philodendron hederaceum & Philodendron erubescens,slow,before,c,2,0.129
+Philodendron hederaceum & Philodendron erubescens,slow,before,d,2,0.112
+Philodendron hederaceum & Philodendron erubescens,slow,before,a,3,0.116
+Philodendron hederaceum & Philodendron erubescens,slow,before,b,3,0.125
+Philodendron hederaceum & Philodendron erubescens,slow,before,c,3,0.105
+Philodendron hederaceum & Philodendron erubescens,slow,before,d,3,0.179
+Philodendron hederaceum & Philodendron erubescens,slow,before,a,4,0.184
+Philodendron hederaceum & Philodendron erubescens,slow,before,b,4,0.163
+Philodendron hederaceum & Philodendron erubescens,slow,before,c,4,0.176
+Philodendron hederaceum & Philodendron erubescens,slow,before,d,4,0.163
+Philodendron hederaceum & Philodendron erubescens,slow,after,a,1,0.166
+Philodendron hederaceum & Philodendron erubescens,slow,after,b,1,0.212
+Philodendron hederaceum & Philodendron erubescens,slow,after,c,1,0.249
+Philodendron hederaceum & Philodendron erubescens,slow,after,d,1,0.137
+Philodendron hederaceum & Philodendron erubescens,slow,after,a,2,0.261
+Philodendron hederaceum & Philodendron erubescens,slow,after,b,2,0.272
+Philodendron hederaceum & Philodendron erubescens,slow,after,c,2,0.282
+Philodendron hederaceum & Philodendron erubescens,slow,after,d,2,0.212
+Philodendron hederaceum & Philodendron erubescens,slow,after,a,3,0.246
+Philodendron hederaceum & Philodendron erubescens,slow,after,b,3,0.324
+Philodendron hederaceum & Philodendron erubescens,slow,after,c,3,0.24
+Philodendron hederaceum & Philodendron erubescens,slow,after,d,3,0.28
+Philodendron hederaceum & Philodendron erubescens,slow,after,a,4,0.304
+Philodendron hederaceum & Philodendron erubescens,slow,after,b,4,0.308
+Philodendron hederaceum & Philodendron erubescens,slow,after,c,4,0.285
+Philodendron hederaceum & Philodendron erubescens,slow,after,d,4,0.301
+Peperomia obtusifolia,slow,before,a,1,0.073
+Peperomia obtusifolia,slow,before,b,1,0.108
+Peperomia obtusifolia,slow,before,c,1,0.089
+Peperomia obtusifolia,slow,before,d,1,0.072
+Peperomia obtusifolia,slow,before,a,2,0.116
+Peperomia obtusifolia,slow,before,b,2,0.196
+Peperomia obtusifolia,slow,before,c,2,0.15
+Peperomia obtusifolia,slow,before,d,2,0.158
+Peperomia obtusifolia,slow,before,a,3,0.166
+Peperomia obtusifolia,slow,before,b,3,0.181
+Peperomia obtusifolia,slow,before,c,3,0.126
+Peperomia obtusifolia,slow,before,d,3,0.212
+Peperomia obtusifolia,slow,before,a,4,0.151
+Peperomia obtusifolia,slow,before,b,4,0.166
+Peperomia obtusifolia,slow,before,c,4,0.211
+Peperomia obtusifolia,slow,before,d,4,0.213
+Peperomia obtusifolia,slow,after,a,1,0.157
+Peperomia obtusifolia,slow,after,b,1,0.253
+Peperomia obtusifolia,slow,after,c,1,0.258
+Peperomia obtusifolia,slow,after,d,1,0.08
+Peperomia obtusifolia,slow,after,a,2,0.214
+Peperomia obtusifolia,slow,after,b,2,0.291
+Peperomia obtusifolia,slow,after,c,2,0.178
+Peperomia obtusifolia,slow,after,d,2,0.21
+Peperomia obtusifolia,slow,after,a,3,0.269
+Peperomia obtusifolia,slow,after,b,3,0.293
+Peperomia obtusifolia,slow,after,c,3,0.277
+Peperomia obtusifolia,slow,after,d,3,0.191
+Peperomia obtusifolia,slow,after,a,4,0.226
+Peperomia obtusifolia,slow,after,b,4,0.346
+Peperomia obtusifolia,slow,after,c,4,0.334
+Peperomia obtusifolia,slow,after,d,4,0.271
+Substrate only,slow,before,a,1,0.016
+Substrate only,slow,before,b,1,0.019
+Substrate only,slow,before,c,1,0.021
+Substrate only,slow,before,d,1,0.017
+Substrate only,slow,before,a,2,0.02
+Substrate only,slow,before,b,2,0.021
+Substrate only,slow,before,c,2,0.022
+Substrate only,slow,before,d,2,0.02
+Substrate only,slow,before,a,3,0.017
+Substrate only,slow,before,b,3,0.021
+Substrate only,slow,before,c,3,0.02
+Substrate only,slow,before,d,3,0.02
+Substrate only,slow,before,a,4,0.016
+Substrate only,slow,before,b,4,0.019
+Substrate only,slow,before,c,4,0.018
+Substrate only,slow,before,d,4,0.018
+Substrate only,slow,after,a,1,0.019
+Substrate only,slow,after,b,1,0.019
+Substrate only,slow,after,c,1,0.018
+Substrate only,slow,after,d,1,0.034
+Substrate only,slow,after,a,2,0.187
+Substrate only,slow,after,b,2,0.24
+Substrate only,slow,after,c,2,0.295
+Substrate only,slow,after,d,2,0.22
+Substrate only,slow,after,a,3,0.103
+Substrate only,slow,after,b,3,0.165
+Substrate only,slow,after,c,3,0.153
+Substrate only,slow,after,d,3,0.267
+Substrate only,slow,after,a,4,0.019
+Substrate only,slow,after,b,4,0.039
+Substrate only,slow,after,c,4,0.033
+Substrate only,slow,after,d,4,0.062

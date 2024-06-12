@@ -1,0 +1,214 @@
+---
+title: "luowens heatmap"
+Author: Stephen Matheson
+date: "5th of june 2024"
+---
+
+
+```{r}
+# import data set
+
+df <- Soil_moisture_raw_comb
+
+# the fast irrigation data
+
+df1 <- df %>%
+  filter(speed != "slow") %>%
+  group_by(species, speed, irrigation,`position x`, `position y`) %>%
+  summarise(value = mean(value))
+
+df2 <- df %>%
+  filter(speed != "fast") %>%
+  group_by(species, speed, irrigation, `position x`, `position y`) %>%
+  summarise(value = mean(value))
+
+```
+
+```{r}
+
+# changes levels of the data so when its put in graph form before will come first etc...
+
+df1$irrigation <- factor(df1$irrigation, levels = c("before", "after"))
+
+df1$species <- factor(df1$species, levels = c("Spathiphyllum wallisii", "Chlorophytum comosum variegatum", "Nematanthus wettsteinii", "Spathiphyllum Chico", "Philodendron hederaceum & Philodendron erubescens", "Peperomia obtusifolia", "Substrate only"))
+
+
+```
+
+```{r ggplot}
+
+# This is your ggplot set up
+
+fig_1 <- ggplot(data = df1,         
+       aes(x = df1$`position x`,
+       y = df1$`position y`,
+       fill = df1$value)) +
+  
+geom_tile(color = "black", size = 0.5) + # input for heatmap effect, colour of our lines and how big they are
+  
+facet_grid(cols = vars(df1$irrigation), # this creates seperated heatmaps for the specified variables (irrigation speed + plant species)
+           rows = vars(df1$species),    
+           scales = "fixed",
+           space  = "fixed",
+           switch = "y") +
+
+scale_fill_gradientn("Soil Moisture \n",
+                      colours = c("#f6c63c", "#EFA143", "#D96558", "#B43970", "#692F7c", "#282A62")) + # inputs your colour scheme
+  
+  labs(title = "12.9 ml/s") + # plot title
+  
+  
+scale_y_discrete(limits = rev,
+                   expand = c(0,0)) + # scale_x_discrete() and scale_y_discrete() are used to set the values for discrete x and y scale aesthetics
+
+theme_minimal() + # inputs our desired theme
+  
+theme(axis.title.y = element_blank(), # removes axis y title 
+      
+      axis.title.x = element_blank(), # removes axis x title 
+      
+      axis.text.x = element_blank(), # removes axis x text
+      
+      axis.text.y = element_blank(), # removes axis y text
+      
+        legend.position = "none", # legend position
+      
+        legend.key = element_blank(), # legend key
+      
+        legend.title = element_text(size = 9), # legend title 
+      
+        panel.grid.major = element_blank(), # removes grid lines
+      
+        panel.grid.minor = element_blank(), # removes minor grid lines
+      
+        strip.text.x = element_text(face = "bold", size = 10), 
+      
+        strip.text.y.left = element_text(angle = 0, colour = "black", face = "bold", size = 9), # our large axis y species titles
+      
+        panel.background = element_rect(fill = "white"), # panel background
+      
+        panel.spacing = unit(0.5,'lines'), # spacing between the panels 
+      
+        panel.border = element_rect(colour = "black", fill = NA, size = 0.5), # border size and colour
+      
+        strip.background = element_rect(colour = "darkgrey", fill = "lightgrey"), # Add border to strip titles
+        
+        plot.title = element_text(hjust = 0.5)) # adjusting plot title position
+        
+        
+
+ print(fig_1)     # view figure
+       
+```
+
+
+All code below is the same as above (this is for slow irrigation) except for some in the ggplot. 
+
+
+
+```{r}
+
+df2$irrigation <- factor(df2$irrigation, levels = c("before", "after"))
+
+df2$species <- factor(df2$species, levels = c("Spathiphyllum wallisii", "Chlorophytum comosum variegatum", "Nematanthus wettsteinii", "Spathiphyllum Chico", "Philodendron hederaceum & Philodendron erubescens", "Peperomia obtusifolia"))
+
+
+
+```
+
+
+```{r}
+
+fig_2 <- 
+  
+  ggplot(data = df2,
+       aes(x = df2$`position x`,
+       y = df2$`position y`,
+       fill = df2$value)) +
+  
+geom_tile( color = "black",size = 0.35) +
+  
+facet_grid(cols = vars(df2$irrigation),
+           rows = vars(df2$species),
+           scales = "fixed",
+           space = "free",
+           switch = "y") +
+
+scale_fill_gradientn("Soil Moisture \n",
+                      colours = c("#f6c63c", "#EFA143", "#D96558", "#B43970", "#692F7c", "#282A62")) + 
+                      #limits = c(0 , 0.4)) + # sets our legend limits 
+   
+  labs(title = "0.16 ml/s") + # different title 
+                      
+  
+scale_y_discrete(limits = rev,
+                   expand = c(0,0)) +
+
+theme_minimal() +
+  
+theme(axis.title.y = element_blank(),
+      
+      axis.title.x = element_blank(),
+      
+      axis.text.x = element_blank(),
+      
+      axis.text.y = element_blank(),
+      
+        legend.position = "right", # legend position
+      
+        legend.key = element_blank(),
+      
+        legend.title = element_text(size = 9),
+      
+        panel.grid.major = element_blank(),
+      
+        panel.grid.minor = element_blank(),
+      
+        strip.text.x = element_text(face = "bold", size = 10),
+      
+        strip.text.y.left = element_blank(),
+      
+        panel.background = element_rect(fill = "white"),
+      
+        panel.spacing = unit(0.5,'lines'),
+      
+        panel.border = element_rect(colour = "black", fill = NA, size = 0.5),
+      
+        strip.background = element_rect(colour = "darkgrey", fill = "lightgrey"),  # Add border to strip titles
+        
+        plot.title = element_text(hjust = 0.5))
+        
+       
+
+
+print(fig_2) # view figure
+
+
+
+
+```
+
+
+```{r}
+
+library(patchwork)
+
+# Combine fig_1 and fig_2
+combined_plot <- fig_1 + fig_2
+
+# Print the combined plot
+print(combined_plot)
+
+
+```
+
+```{r}
+getwd()
+
+# Save the combined plot
+ggsave("Final.png", combined_plot, width = 10, height = 6, units = "in")
+
+
+
+```
+

@@ -1,0 +1,107 @@
+---
+title: "luowen soil moisture analysis_fast"
+author: Stephen Matheson
+---
+
+
+
+```{r}
+
+df <- Soil_moisture_raw_comb
+
+head(df)
+
+df1 <- df %>%
+  mutate(location = paste(`position x`, `position y`, sep = "_"))
+
+df2 <- df1 %>%
+  filter(irrigation == "after")
+```
+
+```{r}
+#add edge and middle column
+
+location2 <- df2$location %in% c("a_1", "b_1", "c_1", "d_1","a_2","a_3","a_4","d_2","d_3","d_4")
+
+# Apply the new variable based on the condition
+df3 <- df2 %>%
+  mutate(New_Column = ifelse(location2, "edge", "middle"))
+
+print(df3)
+
+
+df4 <- df3 %>%
+  filter(speed != "fast")
+```
+
+
+
+```{r}
+
+df3 %>%
+  group_by(species) %>%
+  summarise(aver = mean(value))
+
+
+```
+
+
+```{r aov on location}
+ 
+set.seed(123)
+
+aov <- aov(value ~ speed * species, df2)
+
+summary(aov)
+
+TukeyHSD(aov)
+
+
+# Tukey's HSD test
+tukey_results <- TukeyHSD(aov)
+
+# Extracting significant p-values
+# Convert the results to a data frame for easier manipulation
+tukey_df_interaction <- as.data.frame(tukey_results$`speed:species`)
+
+tukey_df_species <- as.data.frame(tukey_results$species)
+
+# Filter for significant p-values (p < 0.05)
+significant_results_int <- tukey_df_interaction[tukey_df_interaction$`p adj` < 0.05, ]
+
+significant_results_s <- tukey_df_species[tukey_df_species$`p adj` < 0.05, ]
+
+# Print the significant results
+print(significant_results_s)
+
+print(significant_results_int)
+
+
+```
+
+```{r}
+
+set.seed(123)
+
+aov2 <- aov(value ~ speed * species * New_Column, df3)
+
+summary(aov2)
+
+TukeyHSD(aov2)
+
+# Tukey's HSD test
+tukey_results <- TukeyHSD(aov2)
+
+# Extracting significant p-values
+# Convert the results to a data frame for easier manipulation
+tukey_df_new <- as.data.frame(tukey_results$New_Column)
+
+# Filter for significant p-values (p < 0.05)
+significant_results_new <- tukey_df_new[tukey_df_new$`p adj` < 0.05, ]
+
+# Print the significant results
+print(significant_results_new)
+
+
+```
+

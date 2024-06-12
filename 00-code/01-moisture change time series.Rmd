@@ -1,0 +1,151 @@
+---
+title: "Soil moisture change graph"
+---
+
+
+
+```{r fast data}
+
+# import data (Time is numeric)
+
+df <- velocity_moisture_change
+
+
+
+# Then, group by the relevant columns and compute the summary statistics
+
+df1 <- df %>%
+  group_by(time, species, speed) %>%
+  summarise(perc_mean = mean(perc, na.rm = TRUE),
+    sd_perc = sd(perc, na.rm = TRUE),
+    sem = sd(perc, na.rm = TRUE) / sqrt(length(perc)))
+  
+
+# Print the result
+print(df1)
+
+
+```
+
+
+```{r slow data}
+
+# import data (Time is numeric)
+
+df2 <- slow_moisture
+
+
+
+# Then, group by the relevant columns and compute the summary statistics
+
+df3 <- df2 %>%
+  group_by(time, species, speed) %>%
+  summarise(perc_mean = mean(perc, na.rm = TRUE),
+    sd_perc = sd(perc, na.rm = TRUE),
+    sem = sd(perc, na.rm = TRUE) / sqrt(length(perc)))
+  
+
+# Print the result
+print(df3)
+
+
+
+```
+
+
+
+
+
+```{r graph_fast}
+
+
+fig2 <- ggplot(data = df3, aes(x = time, y = perc_mean,
+                       col = species)) +
+  
+  #geom_errorbar(aes(ymin = df1$perc_mean - df1$sem, 
+   #                 ymax = df1$perc_mean + df1$sem), 
+    #            color = "gray") +
+  
+  geom_point( size = 0.6) +
+  geom_line() +
+  
+  ## graph scale
+  
+  scale_x_continuous(expand = c(0, 0), limits = c(0,6.5),
+                       breaks = c(0, 1,2,3,4,5,6)) +
+  
+  scale_y_continuous(expand = c(0, 0), limits = c(0, 101),
+                     breaks = c(10,20,30,40,50,60,70,80,90,100)) +
+  
+  labs(y = "Relative moisture change (%)",
+       x = "Time (hours)",
+       col = "Species") +
+  
+# graph themes
+  
+  
+ theme_gray() +
+   theme(legend.text = element_text(colour = "black", size = 10
+                                   )) +
+  theme(legend.title = element_text(colour = "black", 
+                                 size = 12)) +
+  theme(axis.title = element_text(colour = "black",
+                                 size = 12)) +
+  theme(axis.text = element_text(colour = "black", 
+                                 size = 12)) +
+  theme(axis.line.x = element_line(colour = "black", size = 1)) +
+  theme(axis.line.y = element_line(colour = "black", size = 1)) +
+  theme(legend.position = "bottom")
+
+
+
+print(fig2)
+
+
+```
+
+```{r graph_slow}
+
+
+fig2 <- ggplot(data = df1, aes(x = time, y = perc_mean,
+                       col = species)) +
+  
+  geom_errorbar(aes(ymin = df1$perc_mean - df1$sem, 
+                    ymax = df1$perc_mean + df1$sem), 
+                color = "gray") +
+  
+  geom_point( size = 0.6) +
+  geom_line() +
+  
+  ## graph scale
+  
+  scale_x_continuous(expand = c(0, 0), limits = c(0,3.5),
+                       breaks = c(0, 1,2,3)) +
+  
+  scale_y_continuous(expand = c(0, 0), limits = c(0, 101),
+                     breaks = c(10,20,30,40,50,60,70,80,90,100)) +
+  
+  labs(y = "Relative moisture change (%)",
+       x = "Time (hours)",
+       col = "Species") +
+  
+# graph themes
+  
+  
+ theme_gray() +
+   theme(legend.text = element_text(colour = "black", size = 10
+                                   )) +
+  theme(legend.title = element_text(colour = "black", 
+                                 size = 12)) +
+  theme(axis.title = element_text(colour = "black",
+                                 size = 12)) +
+  theme(axis.text = element_text(colour = "black", 
+                                 size = 12)) +
+  theme(axis.line.x = element_line(colour = "black", size = 1)) +
+  theme(axis.line.y = element_line(colour = "black", size = 1)) +
+  theme(legend.position = "bottom")
+
+
+
+```
+

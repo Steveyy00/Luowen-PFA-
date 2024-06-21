@@ -1,0 +1,60 @@
+---
+title: "Moisture vs velocity analysis"
+authour: Stephen Matheson 
+---
+
+
+
+```{r}
+
+# import data set
+
+df <- moisture_vs_velocity_combined
+
+
+
+```
+
+```{r}
+
+# Ensure that the independent variables are factors
+
+df$irrigation <- as.factor(df$irrigation)
+df$species <- as.factor(df$species)
+df$`soil moisture` <- as.factor(df$`soil moisture`)
+
+#always set seed before statistical anova analysis to avoid varying p - values
+
+set.seed(123)
+
+# Anova code, this is for multiple two way ANOVAs 
+
+## Irigation x plant species
+
+aov1 <- aov(df$velocity ~ df$irrigation * df$species, df)
+
+# basic summary of ANVOA
+
+summary(aov1)
+
+## irrigation x substrate moisture
+
+aov2 <- aov(velocity ~ irrigation * df$`soil moisture`, df)
+
+summary(aov2)
+
+aov3 <- aov(velocity ~ species * df$`soil moisture`, df)
+
+summary(aov3)
+
+```
+
+```{r}
+set.seed(123)
+
+TukeyHSD(aov1)
+
+
+
+```
+

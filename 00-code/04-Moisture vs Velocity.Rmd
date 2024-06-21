@@ -1,0 +1,53 @@
+---
+title: "Soil moisture vs velocity"
+authour: Stephen Matheson
+---
+
+
+
+```{r}
+
+df <- moisture_vs_velocity_combined
+
+```
+
+```{r}
+
+# fast irrigation data frame
+
+df1 <- df %>%
+  group_by(`soil moisture`,species) %>%
+  filter(irrigation != "slow")
+
+# slow irrigation data frame
+
+df2 <- df %>%
+  group_by(`soil moisture`,species) %>%
+  filter(irrigation != "fast")
+
+# combined dataframe with averages
+
+df3 <- df %>%
+  group_by(`soil moisture`, species, irrigation) %>%
+  summarise(mean_vel = mean(velocity))
+
+```
+
+```{r fast irrigation data}
+
+ggplot(df3, 
+       aes(x = df3$`soil moisture`,
+           y = df3$mean_vel,
+           col = df3$irrigation)) +
+  
+  geom_point(position = position_dodge(width = .95)) +
+  
+  
+  facet_wrap(~df3$species, scales = "fixed") +
+  
+  theme_bw()
+
+ggsave("velocity and moisture.png", width = 10, height = 6, units = "in")
+
+```
+

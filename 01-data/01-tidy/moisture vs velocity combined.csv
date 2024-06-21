@@ -1,0 +1,857 @@
+soil moisture,species,irrigation,velocity
+0,Substrate only,slow ,0
+0.07,Substrate only,slow ,0.93
+0.13,Substrate only,slow ,1
+0.17,Substrate only,slow ,0.93
+0.2,Substrate only,slow ,0.93
+0.22,Substrate only,slow ,0.87
+0.24,Substrate only,slow ,0.8
+0.3,Substrate only,slow ,0.87
+0.37,Substrate only,slow ,0.93
+0.43,Substrate only,slow ,0.93
+0.48,Substrate only,slow ,1
+0.52,Substrate only,slow ,1
+0.52,Substrate only,slow ,0.87
+0.52,Substrate only,slow ,0.73
+0.52,Substrate only,slow ,0.53
+0.9,Substrate only,slow ,0.47
+0.92,Substrate only,slow ,0.47
+0.94,Substrate only,slow ,0.47
+0.94,Substrate only,slow ,0.47
+0.96,Substrate only,slow ,0.47
+0.97,Substrate only,slow ,0.47
+0.99,Substrate only,slow ,0.47
+0.99,Substrate only,slow ,0.47
+1,Substrate only,slow ,0.33
+0.013,Spathiphylum wallisii,slow ,0.222
+0,Spathiphylum wallisii,slow ,0
+0.05,Spathiphylum wallisii,slow ,0.556
+0.06,Spathiphylum wallisii,slow ,0.667
+0.097,Spathiphylum wallisii,slow ,0.778
+0.137,Spathiphylum wallisii,slow ,0.889
+0.14,Spathiphylum wallisii,slow ,1
+0.161,Spathiphylum wallisii,slow ,0.889
+0.171,Spathiphylum wallisii,slow ,0.889
+0.231,Spathiphylum wallisii,slow ,1
+0.341,Spathiphylum wallisii,slow ,0.667
+0.448,Spathiphylum wallisii,slow ,0.889
+0.508,Spathiphylum wallisii,slow ,0.889
+0.569,Spathiphylum wallisii,slow ,0.778
+0.585,Spathiphylum wallisii,slow ,0.556
+0.595,Spathiphylum wallisii,slow ,0.778
+0.676,Spathiphylum wallisii,slow ,0.778
+0.686,Spathiphylum wallisii,slow ,0.889
+0.676,Spathiphylum wallisii,slow ,0.889
+0.786,Spathiphylum wallisii,slow ,0.889
+0.786,Spathiphylum wallisii,slow ,0.778
+0.789,Spathiphylum wallisii,slow ,0.667
+0.9,Spathiphylum wallisii,slow ,0.778
+0.987,Spathiphylum wallisii,slow ,0.778
+1,Spathiphylum wallisii,slow ,0.889
+0.009,Chlorophytum comosum,slow ,0
+0,Chlorophytum comosum,slow ,0.353
+0.315,Chlorophytum comosum,slow ,0.471
+0.33,Chlorophytum comosum,slow ,0.647
+0.625,Chlorophytum comosum,slow ,0.706
+0.623,Chlorophytum comosum,slow ,0.765
+0.692,Chlorophytum comosum,slow ,0.824
+0.692,Chlorophytum comosum,slow ,0.824
+0.695,Chlorophytum comosum,slow ,0.882
+0.73,Chlorophytum comosum,slow ,1
+0.76,Chlorophytum comosum,slow ,0.882
+0.762,Chlorophytum comosum,slow ,0.882
+0.778,Chlorophytum comosum,slow ,0.706
+0.778,Chlorophytum comosum,slow ,0.471
+0.799,Chlorophytum comosum,slow ,0.529
+0.805,Chlorophytum comosum,slow ,0.471
+0.953,Chlorophytum comosum,slow ,0.471
+0.979,Chlorophytum comosum,slow ,0.529
+0.979,Chlorophytum comosum,slow ,0.588
+0.981,Chlorophytum comosum,slow ,0.471
+0.987,Chlorophytum comosum,slow ,0.471
+1,Chlorophytum comosum,slow ,0.471
+0.025,Nematanthus wettsteinii,slow ,0.143
+0,Nematanthus wettsteinii,slow ,0.114
+0.002,Nematanthus wettsteinii,slow ,0.143
+0.224,Nematanthus wettsteinii,slow ,0.171
+0.226,Nematanthus wettsteinii,slow ,0.143
+0.3,Nematanthus wettsteinii,slow ,0.171
+0.336,Nematanthus wettsteinii,slow ,0.143
+0.339,Nematanthus wettsteinii,slow ,0.229
+0.428,Nematanthus wettsteinii,slow ,0.257
+0.471,Nematanthus wettsteinii,slow ,0.143
+0.473,Nematanthus wettsteinii,slow ,0.771
+0.504,Nematanthus wettsteinii,slow ,0.171
+0.504,Nematanthus wettsteinii,slow ,0.771
+0.724,Nematanthus wettsteinii,slow ,0.143
+0.729,Nematanthus wettsteinii,slow ,0.943
+0.805,Nematanthus wettsteinii,slow ,0
+0.843,Nematanthus wettsteinii,slow ,0.171
+0.897,Nematanthus wettsteinii,slow ,0.8
+0.935,Nematanthus wettsteinii,slow ,0.057
+0.933,Nematanthus wettsteinii,slow ,0.057
+0.973,Nematanthus wettsteinii,slow ,0.086
+0.973,Nematanthus wettsteinii,slow ,0.486
+0.996,Nematanthus wettsteinii,slow ,0.029
+0.993,Nematanthus wettsteinii,slow ,0.029
+0.998,Nematanthus wettsteinii,slow ,0.2
+1,Nematanthus wettsteinii,slow ,1
+0.143,Spathiphyllum Chico,slow ,0.649
+0.114,Spathiphyllum Chico,slow ,0.865
+0.143,Spathiphyllum Chico,slow ,1
+0.171,Spathiphyllum Chico,slow ,0.649
+0.143,Spathiphyllum Chico,slow ,0.351
+0.171,Spathiphyllum Chico,slow ,0
+0.143,Spathiphyllum Chico,slow ,0.135
+0.229,Spathiphyllum Chico,slow ,0.135
+0.257,Spathiphyllum Chico,slow ,0.108
+0.143,Spathiphyllum Chico,slow ,0.189
+0.771,Spathiphyllum Chico,slow ,0.243
+0.171,Spathiphyllum Chico,slow ,0.054
+0.771,Spathiphyllum Chico,slow ,0.703
+0,Philodendron hederaceum &Philodendron erubescens,slow ,0
+0.003,Philodendron hederaceum &Philodendron erubescens,slow ,0
+0.174,Philodendron hederaceum &Philodendron erubescens,slow ,0.875
+0.185,Philodendron hederaceum &Philodendron erubescens,slow ,0.938
+0.842,Philodendron hederaceum &Philodendron erubescens,slow ,0.875
+0.84,Philodendron hederaceum &Philodendron erubescens,slow ,0.813
+0.878,Philodendron hederaceum &Philodendron erubescens,slow ,0.875
+0.876,Philodendron hederaceum &Philodendron erubescens,slow ,0.938
+0.897,Philodendron hederaceum &Philodendron erubescens,slow ,0.938
+0.902,Philodendron hederaceum &Philodendron erubescens,slow ,0.875
+0.929,Philodendron hederaceum &Philodendron erubescens,slow ,0.875
+0.928,Philodendron hederaceum &Philodendron erubescens,slow ,1
+0.949,Philodendron hederaceum &Philodendron erubescens,slow ,1
+0.951,Philodendron hederaceum &Philodendron erubescens,slow ,1
+0.967,Philodendron hederaceum &Philodendron erubescens,slow ,0.938
+0.972,Philodendron hederaceum &Philodendron erubescens,slow ,0.938
+0.971,Philodendron hederaceum &Philodendron erubescens,slow ,1
+0.984,Philodendron hederaceum &Philodendron erubescens,slow ,1
+0.987,Philodendron hederaceum &Philodendron erubescens,slow ,1
+0.999,Philodendron hederaceum &Philodendron erubescens,slow ,1
+1,Philodendron hederaceum &Philodendron erubescens,slow ,0.875
+0,Peperomia obtusifolia,slow ,0
+0,Peperomia obtusifolia,slow ,0
+0.68,Peperomia obtusifolia,slow ,0.118
+0.72,Peperomia obtusifolia,slow ,0.294
+0.725,Peperomia obtusifolia,slow ,0.353
+0.836,Peperomia obtusifolia,slow ,0.412
+0.844,Peperomia obtusifolia,slow ,0.529
+0.912,Peperomia obtusifolia,slow ,0.529
+0.924,Peperomia obtusifolia,slow ,0.588
+0.953,Peperomia obtusifolia,slow ,0.941
+0.957,Peperomia obtusifolia,slow ,0.882
+0.969,Peperomia obtusifolia,slow ,1
+0.981,Peperomia obtusifolia,slow ,0.941
+1,Peperomia obtusifolia,slow ,0.882
+1,Peperomia obtusifolia,slow ,0.941
+0.0712,Substrate only,fast,0.947
+0.3302,Substrate only,fast,0.579
+0.5379,Substrate only,fast,0.579
+0.5916,Substrate only,fast,0.632
+0.7701,Substrate only,fast,0.737
+0.853,Substrate only,fast,0.684
+0.8915,Substrate only,fast,0.789
+0.9183,Substrate only,fast,0.842
+0.9335,Substrate only,fast,0.842
+0.9428,Substrate only,fast,0.895
+0.951,Substrate only,fast,0.895
+0.9615,Substrate only,fast,0.895
+0.9697,Substrate only,fast,0.895
+0.972,Substrate only,fast,0.947
+0.9767,Substrate only,fast,0.947
+0.9837,Substrate only,fast,0.947
+0.9942,Substrate only,fast,0.895
+1,Substrate only,fast,0.947
+0,Substrate only,fast,0
+0.0052,Substrate only,fast,0.231
+0.1809,Substrate only,fast,0.308
+0.5065,Substrate only,fast,0.231
+0.5943,Substrate only,fast,0.308
+0.6111,Substrate only,fast,0.538
+0.7158,Substrate only,fast,0.769
+0.7674,Substrate only,fast,0.308
+0.8036,Substrate only,fast,0.462
+0.8527,Substrate only,fast,0.385
+0.8928,Substrate only,fast,0.769
+0.907,Substrate only,fast,0.538
+0.9341,Substrate only,fast,0.692
+0.9483,Substrate only,fast,0.769
+0.9742,Substrate only,fast,0.615
+1,Substrate only,fast,0.769
+0.969,Substrate only,fast,0.846
+0,Substrate only,fast,1
+0.0259,Substrate only,fast,0.897
+0.07,Substrate only,fast,0.759
+0.1649,Substrate only,fast,0
+0.2877,Substrate only,fast,0.138
+0.3664,Substrate only,fast,0.448
+0.4892,Substrate only,fast,0.862
+0.5894,Substrate only,fast,0.345
+0.6541,Substrate only,fast,0.345
+0.7112,Substrate only,fast,0.31
+0.8718,Substrate only,fast,0.276
+0.9063,Substrate only,fast,0.345
+0.9289,Substrate only,fast,0.31
+0.9483,Substrate only,fast,0.31
+0.9677,Substrate only,fast,0.276
+0.972,Substrate only,fast,0.241
+0.9817,Substrate only,fast,0.207
+0.9935,Substrate only,fast,0.345
+1,Substrate only,fast,0.241
+0.01,Spathiphylum wallisii ,fast,0.533
+0.3725,Spathiphylum wallisii ,fast,0.8
+0.4212,Spathiphylum wallisii ,fast,0.867
+0.4742,Spathiphylum wallisii ,fast,0.929
+0.5401,Spathiphylum wallisii ,fast,0.857
+0.5946,Spathiphylum wallisii ,fast,0.714
+0.6218,Spathiphylum wallisii ,fast,0.857
+0.6476,Spathiphylum wallisii ,fast,0.786
+0.6691,Spathiphylum wallisii ,fast,0.5
+0.6891,Spathiphylum wallisii ,fast,0.9
+0.6948,Spathiphylum wallisii ,fast,0.8
+0.7049,Spathiphylum wallisii ,fast,0.8
+0.7321,Spathiphylum wallisii ,fast,0.8
+0.7321,Spathiphylum wallisii ,fast,0.8
+0.7493,Spathiphylum wallisii ,fast,0.8
+0.7521,Spathiphylum wallisii ,fast,0.9
+0.7751,Spathiphylum wallisii ,fast,0.9
+0.7794,Spathiphylum wallisii ,fast,0.8
+0.7822,Spathiphylum wallisii ,fast,0.8
+0.9183,Spathiphylum wallisii ,fast,1
+0.9413,Spathiphylum wallisii ,fast,0.714
+0.9499,Spathiphylum wallisii ,fast,1
+0.9484,Spathiphylum wallisii ,fast,1
+0.9556,Spathiphylum wallisii ,fast,0.833
+0.9556,Spathiphylum wallisii ,fast,0.833
+0.957,Spathiphylum wallisii ,fast,1
+0.9613,Spathiphylum wallisii ,fast,0.6
+0.9656,Spathiphylum wallisii ,fast,0.6
+0.9728,Spathiphylum wallisii ,fast,0.2
+0.9742,Spathiphylum wallisii ,fast,0.4
+0.9857,Spathiphylum wallisii ,fast,0.2
+0.9857,Spathiphylum wallisii ,fast,0.6
+1,Spathiphylum wallisii ,fast,0.6
+0.9871,Spathiphylum wallisii ,fast,0.6
+0.9986,Spathiphylum wallisii ,fast,1
+0.9986,Spathiphylum wallisii ,fast,0.75
+0.9957,Spathiphylum wallisii ,fast,1
+0.0084,Spathiphylum wallisii ,fast,0
+0.4653,Spathiphylum wallisii ,fast,0.115
+0.6053,Spathiphylum wallisii ,fast,0.192
+0.7253,Spathiphylum wallisii ,fast,0.231
+0.7863,Spathiphylum wallisii ,fast,0.308
+0.8095,Spathiphylum wallisii ,fast,0.231
+0.8263,Spathiphylum wallisii ,fast,0.462
+0.8421,Spathiphylum wallisii ,fast,0.5
+0.8558,Spathiphylum wallisii ,fast,0.538
+0.8642,Spathiphylum wallisii ,fast,0.538
+0.8737,Spathiphylum wallisii ,fast,0.615
+0.8789,Spathiphylum wallisii ,fast,0.577
+0.8884,Spathiphylum wallisii ,fast,0.5
+0.8916,Spathiphylum wallisii ,fast,0.5
+0.8968,Spathiphylum wallisii ,fast,0.462
+0.9053,Spathiphylum wallisii ,fast,0.5
+0.9074,Spathiphylum wallisii ,fast,0.5
+0.9137,Spathiphylum wallisii ,fast,0.577
+0.9147,Spathiphylum wallisii ,fast,0.462
+0.9168,Spathiphylum wallisii ,fast,0.654
+0.9232,Spathiphylum wallisii ,fast,0.731
+0.9684,Spathiphylum wallisii ,fast,0.731
+0.9674,Spathiphylum wallisii ,fast,0.885
+0.9758,Spathiphylum wallisii ,fast,0.808
+0.9789,Spathiphylum wallisii ,fast,0.846
+0.9884,Spathiphylum wallisii ,fast,0.962
+0.9863,Spathiphylum wallisii ,fast,1
+0.9863,Spathiphylum wallisii ,fast,0.962
+0.9884,Spathiphylum wallisii ,fast,0.885
+0.9937,Spathiphylum wallisii ,fast,0.808
+0.9947,Spathiphylum wallisii ,fast,0.885
+0.9937,Spathiphylum wallisii ,fast,0.885
+0.9937,Spathiphylum wallisii ,fast,0.885
+0.9937,Spathiphylum wallisii ,fast,0.885
+0.9979,Spathiphylum wallisii ,fast,0.923
+0.9958,Spathiphylum wallisii ,fast,1
+1,Spathiphylum wallisii ,fast,1
+0,Chlorophytum comosum,fast,0.093
+0,Chlorophytum comosum,fast,0.074
+0.0053,Chlorophytum comosum,fast,0.056
+0.0026,Chlorophytum comosum,fast,0.074
+0.0118,Chlorophytum comosum,fast,0.093
+0.0145,Chlorophytum comosum,fast,0.074
+0.0197,Chlorophytum comosum,fast,0.093
+0.021,Chlorophytum comosum,fast,0.111
+0.0197,Chlorophytum comosum,fast,0.093
+0.0263,Chlorophytum comosum,fast,0.111
+0.0289,Chlorophytum comosum,fast,0.111
+0.0263,Chlorophytum comosum,fast,0.093
+0.0276,Chlorophytum comosum,fast,0.093
+0.0302,Chlorophytum comosum,fast,0.093
+0.0329,Chlorophytum comosum,fast,0.093
+0.0407,Chlorophytum comosum,fast,0.093
+0.0447,Chlorophytum comosum,fast,0.093
+0.0512,Chlorophytum comosum,fast,0.074
+0.0604,Chlorophytum comosum,fast,0.074
+0.067,Chlorophytum comosum,fast,0.093
+0.0907,Chlorophytum comosum,fast,0.093
+0.1143,Chlorophytum comosum,fast,0.093
+0.1367,Chlorophytum comosum,fast,0.074
+0.1551,Chlorophytum comosum,fast,0.074
+0.1708,Chlorophytum comosum,fast,0.093
+0.1905,Chlorophytum comosum,fast,0.093
+0.2089,Chlorophytum comosum,fast,0.093
+0.2313,Chlorophytum comosum,fast,0.074
+0.2497,Chlorophytum comosum,fast,0.074
+0.2615,Chlorophytum comosum,fast,0.074
+0.2786,Chlorophytum comosum,fast,0.074
+0.2996,Chlorophytum comosum,fast,0.074
+0.3206,Chlorophytum comosum,fast,0.111
+0.3364,Chlorophytum comosum,fast,0.13
+0.3522,Chlorophytum comosum,fast,0.13
+0.3758,Chlorophytum comosum,fast,0.222
+0.3903,Chlorophytum comosum,fast,0.204
+0.4113,Chlorophytum comosum,fast,0.13
+0.4323,Chlorophytum comosum,fast,0.13
+0.4507,Chlorophytum comosum,fast,0.056
+0.4717,Chlorophytum comosum,fast,0.074
+0.4941,Chlorophytum comosum,fast,0.093
+0.5138,Chlorophytum comosum,fast,0.093
+0.5309,Chlorophytum comosum,fast,0.111
+0.5453,Chlorophytum comosum,fast,0.148
+0.5598,Chlorophytum comosum,fast,0.111
+0.5782,Chlorophytum comosum,fast,0.13
+0.5926,Chlorophytum comosum,fast,0.111
+0.6071,Chlorophytum comosum,fast,0.13
+0.6202,Chlorophytum comosum,fast,0.111
+0.6294,Chlorophytum comosum,fast,0.093
+0.6413,Chlorophytum comosum,fast,0.074
+0.6544,Chlorophytum comosum,fast,0.13
+0.6662,Chlorophytum comosum,fast,0.111
+0.6767,Chlorophytum comosum,fast,0.074
+0.6873,Chlorophytum comosum,fast,0.093
+0.6965,Chlorophytum comosum,fast,0.537
+0.7122,Chlorophytum comosum,fast,0.093
+0.7201,Chlorophytum comosum,fast,0.111
+0.7267,Chlorophytum comosum,fast,0.074
+0.7411,Chlorophytum comosum,fast,0.074
+0.749,Chlorophytum comosum,fast,1
+0.7543,Chlorophytum comosum,fast,0.241
+0.7635,Chlorophytum comosum,fast,0.074
+0.7727,Chlorophytum comosum,fast,0.111
+0.7819,Chlorophytum comosum,fast,0.13
+0.795,Chlorophytum comosum,fast,0.13
+0.8016,Chlorophytum comosum,fast,0.111
+0.8134,Chlorophytum comosum,fast,0.13
+0.8187,Chlorophytum comosum,fast,0.093
+0.8357,Chlorophytum comosum,fast,0.093
+0.841,Chlorophytum comosum,fast,0.111
+0.8436,Chlorophytum comosum,fast,0.111
+0.8568,Chlorophytum comosum,fast,0.111
+0.8673,Chlorophytum comosum,fast,0.13
+0.8765,Chlorophytum comosum,fast,0.13
+0.8857,Chlorophytum comosum,fast,0.148
+0.8857,Chlorophytum comosum,fast,0.13
+0.9001,Chlorophytum comosum,fast,0.111
+0.9014,Chlorophytum comosum,fast,0.111
+0.9146,Chlorophytum comosum,fast,0.13
+0.9146,Chlorophytum comosum,fast,0.111
+0.9225,Chlorophytum comosum,fast,0.13
+0.933,Chlorophytum comosum,fast,0.093
+0.9356,Chlorophytum comosum,fast,0.111
+0.9474,Chlorophytum comosum,fast,0.111
+0.9566,Chlorophytum comosum,fast,0.056
+0.9566,Chlorophytum comosum,fast,0.037
+0.9698,Chlorophytum comosum,fast,0.056
+0.979,Chlorophytum comosum,fast,0.019
+0.9816,Chlorophytum comosum,fast,0
+0.9816,Chlorophytum comosum,fast,0
+0.9908,Chlorophytum comosum,fast,0.13
+1,Chlorophytum comosum,fast,0.074
+0.002,Chlorophytum comosum,fast,0.806
+0.004,Chlorophytum comosum,fast,0.935
+0.0091,Chlorophytum comosum,fast,0.935
+0.0121,Chlorophytum comosum,fast,0.935
+0.0152,Chlorophytum comosum,fast,0.452
+0.0182,Chlorophytum comosum,fast,0.065
+0.0202,Chlorophytum comosum,fast,0.355
+0.0475,Chlorophytum comosum,fast,0.645
+0.2356,Chlorophytum comosum,fast,0.71
+0.3943,Chlorophytum comosum,fast,0.774
+0.4702,Chlorophytum comosum,fast,0.839
+0.5025,Chlorophytum comosum,fast,0.839
+0.5642,Chlorophytum comosum,fast,0.677
+0.6299,Chlorophytum comosum,fast,0.677
+0.6694,Chlorophytum comosum,fast,0.742
+0.6866,Chlorophytum comosum,fast,0.742
+0.7037,Chlorophytum comosum,fast,0.774
+0.7321,Chlorophytum comosum,fast,0.806
+0.7533,Chlorophytum comosum,fast,0.774
+0.7735,Chlorophytum comosum,fast,0.774
+0.7947,Chlorophytum comosum,fast,0.774
+0.8129,Chlorophytum comosum,fast,0.774
+0.8301,Chlorophytum comosum,fast,0.774
+0.8372,Chlorophytum comosum,fast,0.742
+0.8453,Chlorophytum comosum,fast,0.806
+0.8595,Chlorophytum comosum,fast,0.806
+0.8605,Chlorophytum comosum,fast,0.806
+0.8756,Chlorophytum comosum,fast,0.774
+0.8827,Chlorophytum comosum,fast,0.806
+0.8908,Chlorophytum comosum,fast,0.806
+0.8948,Chlorophytum comosum,fast,0.806
+0.8999,Chlorophytum comosum,fast,0.806
+0.9039,Chlorophytum comosum,fast,0.839
+0.912,Chlorophytum comosum,fast,0.806
+0.9161,Chlorophytum comosum,fast,0.871
+0.9949,Chlorophytum comosum,fast,0.839
+1,Chlorophytum comosum,fast,0.806
+0.0104,Chlorophytum comosum,fast,0.063
+0.0084,Chlorophytum comosum,fast,0.188
+0.0271,Chlorophytum comosum,fast,0.375
+0.0668,Chlorophytum comosum,fast,0.375
+0.1002,Chlorophytum comosum,fast,0.469
+0.1587,Chlorophytum comosum,fast,0.531
+0.1921,Chlorophytum comosum,fast,0.531
+0.2463,Chlorophytum comosum,fast,1
+0.2714,Chlorophytum comosum,fast,0.594
+0.309,Chlorophytum comosum,fast,0.625
+0.3361,Chlorophytum comosum,fast,0.719
+0.3779,Chlorophytum comosum,fast,0.594
+0.4217,Chlorophytum comosum,fast,0.594
+0.4593,Chlorophytum comosum,fast,0.563
+0.4969,Chlorophytum comosum,fast,0.563
+0.5261,Chlorophytum comosum,fast,0.656
+0.5595,Chlorophytum comosum,fast,0.5
+0.5825,Chlorophytum comosum,fast,0.531
+0.6138,Chlorophytum comosum,fast,0.5
+0.6493,Chlorophytum comosum,fast,0.5
+0.6576,Chlorophytum comosum,fast,0.5
+0.666,Chlorophytum comosum,fast,0.5
+0.6848,Chlorophytum comosum,fast,0.438
+0.7035,Chlorophytum comosum,fast,0.438
+0.7871,Chlorophytum comosum,fast,0.375
+0.8121,Chlorophytum comosum,fast,0.313
+0.833,Chlorophytum comosum,fast,0.438
+0.8539,Chlorophytum comosum,fast,0.375
+0.8727,Chlorophytum comosum,fast,0.219
+0.8935,Chlorophytum comosum,fast,0.125
+0.9123,Chlorophytum comosum,fast,0.094
+0.9332,Chlorophytum comosum,fast,0.094
+0.9478,Chlorophytum comosum,fast,0.094
+0.9582,Chlorophytum comosum,fast,0.063
+0.9708,Chlorophytum comosum,fast,0.188
+0.9833,Chlorophytum comosum,fast,0.094
+1,Chlorophytum comosum,fast,0.063
+0.002,Nematanthus wettsteinii,fast,0
+0.0059,Nematanthus wettsteinii,fast,0.118
+0.0059,Nematanthus wettsteinii,fast,0.146
+0.0079,Nematanthus wettsteinii,fast,0.23
+0.0079,Nematanthus wettsteinii,fast,0.337
+0.0138,Nematanthus wettsteinii,fast,0.393
+0.0157,Nematanthus wettsteinii,fast,0.472
+0.0196,Nematanthus wettsteinii,fast,0.433
+0.0354,Nematanthus wettsteinii,fast,0.612
+0.0727,Nematanthus wettsteinii,fast,0.601
+0.1179,Nematanthus wettsteinii,fast,0.68
+0.1218,Nematanthus wettsteinii,fast,0.725
+0.2141,Nematanthus wettsteinii,fast,0.719
+0.3065,Nematanthus wettsteinii,fast,0.764
+0.3733,Nematanthus wettsteinii,fast,0.708
+0.4244,Nematanthus wettsteinii,fast,0.775
+0.4617,Nematanthus wettsteinii,fast,0.742
+0.4971,Nematanthus wettsteinii,fast,0.809
+0.5363,Nematanthus wettsteinii,fast,0.865
+0.5717,Nematanthus wettsteinii,fast,0.893
+0.6031,Nematanthus wettsteinii,fast,0.927
+0.6228,Nematanthus wettsteinii,fast,0.871
+0.6503,Nematanthus wettsteinii,fast,0.854
+0.6758,Nematanthus wettsteinii,fast,0.893
+0.7053,Nematanthus wettsteinii,fast,0.904
+0.7426,Nematanthus wettsteinii,fast,0.927
+0.7721,Nematanthus wettsteinii,fast,0.933
+0.7957,Nematanthus wettsteinii,fast,0.904
+0.8232,Nematanthus wettsteinii,fast,0.871
+0.8448,Nematanthus wettsteinii,fast,0.876
+0.8684,Nematanthus wettsteinii,fast,0.944
+0.8939,Nematanthus wettsteinii,fast,0.949
+0.9096,Nematanthus wettsteinii,fast,0.966
+0.9391,Nematanthus wettsteinii,fast,0.972
+0.9568,Nematanthus wettsteinii,fast,0.978
+0.9745,Nematanthus wettsteinii,fast,0.983
+0.9882,Nematanthus wettsteinii,fast,0.978
+1,Nematanthus wettsteinii,fast,0.966
+0,Nematanthus wettsteinii,fast,0
+0.0905,Nematanthus wettsteinii,fast,0.478
+0.1172,Nematanthus wettsteinii,fast,0.687
+0.1306,Nematanthus wettsteinii,fast,0.597
+0.1543,Nematanthus wettsteinii,fast,0.687
+0.1929,Nematanthus wettsteinii,fast,0.761
+0.2567,Nematanthus wettsteinii,fast,0.701
+0.3145,Nematanthus wettsteinii,fast,0.746
+0.3561,Nematanthus wettsteinii,fast,0.537
+0.3813,Nematanthus wettsteinii,fast,0.478
+0.4139,Nematanthus wettsteinii,fast,0.761
+0.4258,Nematanthus wettsteinii,fast,0.836
+0.4792,Nematanthus wettsteinii,fast,0.821
+0.5,Nematanthus wettsteinii,fast,0.91
+0.5208,Nematanthus wettsteinii,fast,0.776
+0.5356,Nematanthus wettsteinii,fast,0.881
+0.5549,Nematanthus wettsteinii,fast,0.716
+0.5697,Nematanthus wettsteinii,fast,1
+0.5846,Nematanthus wettsteinii,fast,0.94
+0.5979,Nematanthus wettsteinii,fast,0.836
+0.6113,Nematanthus wettsteinii,fast,0.851
+0.6276,Nematanthus wettsteinii,fast,0.866
+0.6424,Nematanthus wettsteinii,fast,0.567
+0.6647,Nematanthus wettsteinii,fast,0.836
+0.6855,Nematanthus wettsteinii,fast,0.97
+0.7033,Nematanthus wettsteinii,fast,0.881
+0.7211,Nematanthus wettsteinii,fast,0.896
+0.7359,Nematanthus wettsteinii,fast,0.851
+0.7552,Nematanthus wettsteinii,fast,0.806
+0.7715,Nematanthus wettsteinii,fast,0.746
+0.7878,Nematanthus wettsteinii,fast,0.836
+0.8086,Nematanthus wettsteinii,fast,0.761
+0.8205,Nematanthus wettsteinii,fast,0.746
+0.8487,Nematanthus wettsteinii,fast,0.672
+0.8932,Nematanthus wettsteinii,fast,0.716
+0.954,Nematanthus wettsteinii,fast,0.657
+1,Nematanthus wettsteinii,fast,0.851
+0.008,Nematanthus wettsteinii,fast,0
+0.0304,Nematanthus wettsteinii,fast,0.352
+0.2815,Nematanthus wettsteinii,fast,0.556
+0.6461,Nematanthus wettsteinii,fast,0.611
+0.7274,Nematanthus wettsteinii,fast,0.593
+0.765,Nematanthus wettsteinii,fast,0.685
+0.8025,Nematanthus wettsteinii,fast,0.667
+0.8266,Nematanthus wettsteinii,fast,0.481
+0.8436,Nematanthus wettsteinii,fast,0.63
+0.8624,Nematanthus wettsteinii,fast,0.741
+0.8749,Nematanthus wettsteinii,fast,0.704
+0.8865,Nematanthus wettsteinii,fast,0.815
+0.8981,Nematanthus wettsteinii,fast,0.852
+0.908,Nematanthus wettsteinii,fast,0.704
+0.9169,Nematanthus wettsteinii,fast,0.815
+0.9214,Nematanthus wettsteinii,fast,0.574
+0.9294,Nematanthus wettsteinii,fast,0.648
+0.9374,Nematanthus wettsteinii,fast,0.648
+0.9428,Nematanthus wettsteinii,fast,0.593
+0.9455,Nematanthus wettsteinii,fast,0.87
+0.9517,Nematanthus wettsteinii,fast,0.87
+0.958,Nematanthus wettsteinii,fast,0.963
+0.9616,Nematanthus wettsteinii,fast,0.926
+0.966,Nematanthus wettsteinii,fast,0.944
+0.9705,Nematanthus wettsteinii,fast,0.907
+0.9732,Nematanthus wettsteinii,fast,0.907
+0.9732,Nematanthus wettsteinii,fast,0.685
+0.9768,Nematanthus wettsteinii,fast,0.667
+0.9768,Nematanthus wettsteinii,fast,0.704
+0.9794,Nematanthus wettsteinii,fast,0.907
+0.9839,Nematanthus wettsteinii,fast,0.907
+0.9866,Nematanthus wettsteinii,fast,0.907
+0.9902,Nematanthus wettsteinii,fast,0.889
+0.9937,Nematanthus wettsteinii,fast,0.889
+0.9982,Nematanthus wettsteinii,fast,0.926
+1,Nematanthus wettsteinii,fast,0.907
+0.0000,Spathiphyllum Chico,fast,0.368
+0.0078,Spathiphyllum Chico,fast,0.632
+0.0000,Spathiphyllum Chico,fast,0.737
+0.0000,Spathiphyllum Chico,fast,0.737
+0.0233,Spathiphyllum Chico,fast,0.737
+0.0323,Spathiphyllum Chico,fast,0.632
+0.0336,Spathiphyllum Chico,fast,0.632
+0.0426,Spathiphyllum Chico,fast,0.632
+0.1292,Spathiphyllum Chico,fast,0.526
+0.2752,Spathiphyllum Chico,fast,0.632
+0.3424,Spathiphyllum Chico,fast,0.579
+0.4147,Spathiphyllum Chico,fast,0.632
+0.5065,Spathiphyllum Chico,fast,0.579
+0.5233,Spathiphyllum Chico,fast,0.526
+0.5556,Spathiphyllum Chico,fast,0.632
+0.5891,Spathiphyllum Chico,fast,0.526
+0.6163,Spathiphyllum Chico,fast,0.526
+0.6370,Spathiphyllum Chico,fast,0.526
+0.6550,Spathiphyllum Chico,fast,0.526
+0.6718,Spathiphyllum Chico,fast,0.526
+0.6964,Spathiphyllum Chico,fast,0.579
+0.7145,Spathiphyllum Chico,fast,0.526
+0.7274,Spathiphyllum Chico,fast,0.579
+0.7054,Spathiphyllum Chico,fast,0.526
+0.7261,Spathiphyllum Chico,fast,0.526
+0.7494,Spathiphyllum Chico,fast,0.579
+0.7597,Spathiphyllum Chico,fast,0.526
+0.8566,Spathiphyllum Chico,fast,0.579
+0.8889,Spathiphyllum Chico,fast,0.579
+0.8992,Spathiphyllum Chico,fast,0.526
+0.9109,Spathiphyllum Chico,fast,0.579
+0.9302,Spathiphyllum Chico,fast,0.526
+0.9457,Spathiphyllum Chico,fast,0.526
+0.9574,Spathiphyllum Chico,fast,0.526
+0.9690,Spathiphyllum Chico,fast,0.526
+0.9884,Spathiphyllum Chico,fast,0.526
+1.0000,Spathiphyllum Chico,fast,0.579
+0.0000,Spathiphyllum Chico,fast,0.750
+0.0029,Spathiphyllum Chico,fast,0.938
+0.0159,Spathiphyllum Chico,fast,0.563
+0.0696,Spathiphyllum Chico,fast,0.813
+0.0826,Spathiphyllum Chico,fast,0.625
+0.0841,Spathiphyllum Chico,fast,0.625
+0.0928,Spathiphyllum Chico,fast,0.563
+0.0971,Spathiphyllum Chico,fast,0.625
+0.1058,Spathiphyllum Chico,fast,0.500
+0.1145,Spathiphyllum Chico,fast,0.438
+0.1377,Spathiphyllum Chico,fast,0.375
+0.1971,Spathiphyllum Chico,fast,0.375
+0.2333,Spathiphyllum Chico,fast,0.375
+0.5928,Spathiphyllum Chico,fast,0.313
+0.7478,Spathiphyllum Chico,fast,0.250
+0.9043,Spathiphyllum Chico,fast,0.250
+0.9652,Spathiphyllum Chico,fast,0.188
+0.9725,Spathiphyllum Chico,fast,0.188
+0.9754,Spathiphyllum Chico,fast,0.063
+0.9855,Spathiphyllum Chico,fast,0.063
+0.9928,Spathiphyllum Chico,fast,0.000
+1.0000,Spathiphyllum Chico,fast,0.438
+0.9928,Spathiphyllum Chico,fast,0.250
+0.9952,Spathiphyllum Chico,fast,0.188
+0.9952,Spathiphyllum Chico,fast,0.313
+0.9952,Spathiphyllum Chico,fast,0.250
+0.9952,Spathiphyllum Chico,fast,0.063
+0.9952,Spathiphyllum Chico,fast,0.188
+0.9952,Spathiphyllum Chico,fast,0.188
+0.9952,Spathiphyllum Chico,fast,0.125
+0.0000,Spathiphyllum Chico,fast,0.286
+0.1675,Spathiphyllum Chico,fast,0.714
+0.3351,Spathiphyllum Chico,fast,0.857
+0.4088,Spathiphyllum Chico,fast,0.857
+0.4746,Spathiphyllum Chico,fast,1.000
+0.4991,Spathiphyllum Chico,fast,0.857
+0.5298,Spathiphyllum Chico,fast,0.857
+0.5553,Spathiphyllum Chico,fast,0.714
+0.5965,Spathiphyllum Chico,fast,0.571
+0.6360,Spathiphyllum Chico,fast,0.429
+0.6561,Spathiphyllum Chico,fast,0.571
+0.6781,Spathiphyllum Chico,fast,0.429
+0.7018,Spathiphyllum Chico,fast,0.429
+0.7254,Spathiphyllum Chico,fast,0.429
+0.7570,Spathiphyllum Chico,fast,0.571
+0.7921,Spathiphyllum Chico,fast,0.286
+0.8246,Spathiphyllum Chico,fast,0.429
+0.8439,Spathiphyllum Chico,fast,0.429
+0.8649,Spathiphyllum Chico,fast,0.571
+0.8789,Spathiphyllum Chico,fast,0.429
+0.8939,Spathiphyllum Chico,fast,0.571
+0.9061,Spathiphyllum Chico,fast,0.571
+0.9096,Spathiphyllum Chico,fast,0.571
+0.9167,Spathiphyllum Chico,fast,0.429
+0.9360,Spathiphyllum Chico,fast,0.429
+0.9404,Spathiphyllum Chico,fast,0.429
+0.9456,Spathiphyllum Chico,fast,0.571
+0.9553,Spathiphyllum Chico,fast,0.429
+0.9614,Spathiphyllum Chico,fast,0.429
+0.9754,Spathiphyllum Chico,fast,0.286
+0.9719,Spathiphyllum Chico,fast,0.286
+0.9798,Spathiphyllum Chico,fast,0.286
+0.9833,Spathiphyllum Chico,fast,0.286
+0.9939,Spathiphyllum Chico,fast,0.286
+0.9947,Spathiphyllum Chico,fast,0.143
+0.9991,Spathiphyllum Chico,fast,0.286
+1.0000,Spathiphyllum Chico,fast,0.143
+0.0000,Philodendron hederaceum &Philodendron erubescens,fast,0.250
+0.5380,Philodendron hederaceum &Philodendron erubescens,fast,0.950
+0.7935,Philodendron hederaceum &Philodendron erubescens,fast,0.900
+0.8522,Philodendron hederaceum &Philodendron erubescens,fast,0.400
+0.8663,Philodendron hederaceum &Philodendron erubescens,fast,0.450
+0.8891,Philodendron hederaceum &Philodendron erubescens,fast,0.500
+0.8924,Philodendron hederaceum &Philodendron erubescens,fast,0.700
+0.9120,Philodendron hederaceum &Philodendron erubescens,fast,0.800
+0.9217,Philodendron hederaceum &Philodendron erubescens,fast,0.750
+0.9337,Philodendron hederaceum &Philodendron erubescens,fast,0.800
+0.9391,Philodendron hederaceum &Philodendron erubescens,fast,0.750
+0.9457,Philodendron hederaceum &Philodendron erubescens,fast,0.750
+0.9424,Philodendron hederaceum &Philodendron erubescens,fast,0.800
+0.9467,Philodendron hederaceum &Philodendron erubescens,fast,0.650
+0.9543,Philodendron hederaceum &Philodendron erubescens,fast,0.650
+0.9630,Philodendron hederaceum &Philodendron erubescens,fast,0.650
+0.9641,Philodendron hederaceum &Philodendron erubescens,fast,0.000
+0.9663,Philodendron hederaceum &Philodendron erubescens,fast,0.100
+0.9663,Philodendron hederaceum &Philodendron erubescens,fast,0.050
+0.9674,Philodendron hederaceum &Philodendron erubescens,fast,0.050
+0.9707,Philodendron hederaceum &Philodendron erubescens,fast,0.050
+0.9728,Philodendron hederaceum &Philodendron erubescens,fast,0.100
+0.9728,Philodendron hederaceum &Philodendron erubescens,fast,0.100
+0.9815,Philodendron hederaceum &Philodendron erubescens,fast,0.100
+0.9804,Philodendron hederaceum &Philodendron erubescens,fast,0.050
+0.9826,Philodendron hederaceum &Philodendron erubescens,fast,0.100
+0.9859,Philodendron hederaceum &Philodendron erubescens,fast,0.050
+0.9848,Philodendron hederaceum &Philodendron erubescens,fast,0.100
+0.9859,Philodendron hederaceum &Philodendron erubescens,fast,0.150
+0.9924,Philodendron hederaceum &Philodendron erubescens,fast,0.100
+0.9935,Philodendron hederaceum &Philodendron erubescens,fast,0.100
+1.0000,Philodendron hederaceum &Philodendron erubescens,fast,0.100
+0.9946,Philodendron hederaceum &Philodendron erubescens,fast,0.100
+0.9989,Philodendron hederaceum &Philodendron erubescens,fast,0.150
+0.9967,Philodendron hederaceum &Philodendron erubescens,fast,0.150
+0.9978,Philodendron hederaceum &Philodendron erubescens,fast,0.150
+0.9989,Philodendron hederaceum &Philodendron erubescens,fast,0.200
+0.0078,Philodendron hederaceum &Philodendron erubescens,fast,0.432
+0.1225,Philodendron hederaceum &Philodendron erubescens,fast,0.760
+0.2589,Philodendron hederaceum &Philodendron erubescens,fast,0.016
+0.3891,Philodendron hederaceum &Philodendron erubescens,fast,0.552
+0.4930,Philodendron hederaceum &Philodendron erubescens,fast,0.912
+0.5612,Philodendron hederaceum &Philodendron erubescens,fast,0.928
+0.5891,Philodendron hederaceum &Philodendron erubescens,fast,0.936
+0.6140,Philodendron hederaceum &Philodendron erubescens,fast,0.928
+0.6295,Philodendron hederaceum &Philodendron erubescens,fast,0.952
+0.6543,Philodendron hederaceum &Philodendron erubescens,fast,0.944
+0.6837,Philodendron hederaceum &Philodendron erubescens,fast,0.928
+0.7008,Philodendron hederaceum &Philodendron erubescens,fast,0.952
+0.7364,Philodendron hederaceum &Philodendron erubescens,fast,0.944
+0.7535,Philodendron hederaceum &Philodendron erubescens,fast,0.976
+0.7736,Philodendron hederaceum &Philodendron erubescens,fast,0.968
+0.7829,Philodendron hederaceum &Philodendron erubescens,fast,0.960
+0.8000,Philodendron hederaceum &Philodendron erubescens,fast,0.960
+0.8171,Philodendron hederaceum &Philodendron erubescens,fast,0.960
+0.8326,Philodendron hederaceum &Philodendron erubescens,fast,0.968
+0.8512,Philodendron hederaceum &Philodendron erubescens,fast,0.944
+0.8698,Philodendron hederaceum &Philodendron erubescens,fast,0.952
+0.8775,Philodendron hederaceum &Philodendron erubescens,fast,0.960
+0.8930,Philodendron hederaceum &Philodendron erubescens,fast,0.360
+0.9008,Philodendron hederaceum &Philodendron erubescens,fast,0.376
+0.9163,Philodendron hederaceum &Philodendron erubescens,fast,0.368
+0.9225,Philodendron hederaceum &Philodendron erubescens,fast,0.360
+0.9225,Philodendron hederaceum &Philodendron erubescens,fast,0.368
+0.9364,Philodendron hederaceum &Philodendron erubescens,fast,0.376
+0.9426,Philodendron hederaceum &Philodendron erubescens,fast,0.368
+0.9504,Philodendron hederaceum &Philodendron erubescens,fast,0.368
+0.9597,Philodendron hederaceum &Philodendron erubescens,fast,0.376
+0.9690,Philodendron hederaceum &Philodendron erubescens,fast,0.384
+0.9783,Philodendron hederaceum &Philodendron erubescens,fast,0.384
+0.9783,Philodendron hederaceum &Philodendron erubescens,fast,0.376
+0.9860,Philodendron hederaceum &Philodendron erubescens,fast,0.384
+0.9891,Philodendron hederaceum &Philodendron erubescens,fast,0.384
+1.0000,Philodendron hederaceum &Philodendron erubescens,fast,0.368
+0.0173,Philodendron hederaceum &Philodendron erubescens,fast,0.323
+0.0000,Philodendron hederaceum &Philodendron erubescens,fast,0.031
+0.1082,Philodendron hederaceum &Philodendron erubescens,fast,0.077
+0.6407,Philodendron hederaceum &Philodendron erubescens,fast,0.108
+0.7850,Philodendron hederaceum &Philodendron erubescens,fast,0.246
+0.8990,Philodendron hederaceum &Philodendron erubescens,fast,0.169
+0.9307,Philodendron hederaceum &Philodendron erubescens,fast,0.092
+0.9726,Philodendron hederaceum &Philodendron erubescens,fast,0.154
+1.0000,Philodendron hederaceum &Philodendron erubescens,fast,0.154
+0.9942,Philodendron hederaceum &Philodendron erubescens,fast,0.215
+0.9683,Philodendron hederaceum &Philodendron erubescens,fast,0.200
+0.9654,Philodendron hederaceum &Philodendron erubescens,fast,0.200
+0.9784,Philodendron hederaceum &Philodendron erubescens,fast,0.646
+0.9307,Philodendron hederaceum &Philodendron erubescens,fast,0.600
+0.9235,Philodendron hederaceum &Philodendron erubescens,fast,0.646
+0.9394,Philodendron hederaceum &Philodendron erubescens,fast,0.585
+0.9553,Philodendron hederaceum &Philodendron erubescens,fast,0.615
+0.9639,Philodendron hederaceum &Philodendron erubescens,fast,0.508
+0.9582,Philodendron hederaceum &Philodendron erubescens,fast,0.462
+0.9553,Philodendron hederaceum &Philodendron erubescens,fast,0.446
+0.9769,Philodendron hederaceum &Philodendron erubescens,fast,0.385
+0.9769,Philodendron hederaceum &Philodendron erubescens,fast,0.492
+0.9711,Philodendron hederaceum &Philodendron erubescens,fast,0.738
+0.9740,Philodendron hederaceum &Philodendron erubescens,fast,0.523
+0.9697,Philodendron hederaceum &Philodendron erubescens,fast,0.538
+0.9841,Philodendron hederaceum &Philodendron erubescens,fast,0.585
+0.9769,Philodendron hederaceum &Philodendron erubescens,fast,0.631
+0.9668,Philodendron hederaceum &Philodendron erubescens,fast,0.631
+0.9654,Philodendron hederaceum &Philodendron erubescens,fast,0.600
+0.9697,Philodendron hederaceum &Philodendron erubescens,fast,0.492
+0.9668,Philodendron hederaceum &Philodendron erubescens,fast,0.615
+0.9639,Philodendron hederaceum &Philodendron erubescens,fast,1.000
+0.9683,Philodendron hederaceum &Philodendron erubescens,fast,0.831
+0.9726,Philodendron hederaceum &Philodendron erubescens,fast,0.615
+0.9769,Philodendron hederaceum &Philodendron erubescens,fast,0.600
+0.9841,Philodendron hederaceum &Philodendron erubescens,fast,0.615
+0.0000,Peperomia obtusifolia,fast,0.889
+0.1004,Peperomia obtusifolia,fast,0.741
+0.2120,Peperomia obtusifolia,fast,0.852
+0.2524,Peperomia obtusifolia,fast,0.926
+0.2999,Peperomia obtusifolia,fast,0.889
+0.3389,Peperomia obtusifolia,fast,0.926
+0.3821,Peperomia obtusifolia,fast,0.852
+0.4463,Peperomia obtusifolia,fast,0.926
+0.5481,Peperomia obtusifolia,fast,0.852
+0.6206,Peperomia obtusifolia,fast,0.852
+0.6527,Peperomia obtusifolia,fast,0.963
+0.6667,Peperomia obtusifolia,fast,1.000
+0.6862,Peperomia obtusifolia,fast,0.815
+0.6946,Peperomia obtusifolia,fast,0.926
+0.7838,Peperomia obtusifolia,fast,0.704
+0.7852,Peperomia obtusifolia,fast,0.667
+0.7894,Peperomia obtusifolia,fast,0.815
+0.7992,Peperomia obtusifolia,fast,0.704
+0.8061,Peperomia obtusifolia,fast,0.741
+0.8145,Peperomia obtusifolia,fast,0.778
+0.8340,Peperomia obtusifolia,fast,0.815
+0.8382,Peperomia obtusifolia,fast,0.778
+0.8522,Peperomia obtusifolia,fast,0.778
+0.8717,Peperomia obtusifolia,fast,0.815
+0.8842,Peperomia obtusifolia,fast,0.815
+0.8982,Peperomia obtusifolia,fast,0.704
+0.9135,Peperomia obtusifolia,fast,0.815
+0.9261,Peperomia obtusifolia,fast,0.815
+0.9372,Peperomia obtusifolia,fast,0.037
+0.9498,Peperomia obtusifolia,fast,0.074
+0.9568,Peperomia obtusifolia,fast,0.037
+0.9637,Peperomia obtusifolia,fast,0.074
+0.9749,Peperomia obtusifolia,fast,0.074
+0.9833,Peperomia obtusifolia,fast,0.074
+0.9847,Peperomia obtusifolia,fast,0.074
+0.9958,Peperomia obtusifolia,fast,0.037
+1.0000,Peperomia obtusifolia,fast,0.037
+0.0000,Peperomia obtusifolia,fast,0.286
+0.0038,Peperomia obtusifolia,fast,0.286
+0.8167,Peperomia obtusifolia,fast,0.500
+0.9319,Peperomia obtusifolia,fast,0.500
+0.9376,Peperomia obtusifolia,fast,0.643
+0.9424,Peperomia obtusifolia,fast,0.643
+0.9463,Peperomia obtusifolia,fast,0.714
+0.9511,Peperomia obtusifolia,fast,0.929
+0.9559,Peperomia obtusifolia,fast,0.929
+0.9616,Peperomia obtusifolia,fast,0.714
+0.9664,Peperomia obtusifolia,fast,0.714
+0.9683,Peperomia obtusifolia,fast,1.000
+0.9750,Peperomia obtusifolia,fast,0.714
+0.9750,Peperomia obtusifolia,fast,0.714
+0.9789,Peperomia obtusifolia,fast,0.786
+0.9827,Peperomia obtusifolia,fast,0.786
+0.9866,Peperomia obtusifolia,fast,0.786
+0.9885,Peperomia obtusifolia,fast,0.786
+0.9894,Peperomia obtusifolia,fast,0.786
+0.9942,Peperomia obtusifolia,fast,0.786
+0.9942,Peperomia obtusifolia,fast,0.786
+0.9962,Peperomia obtusifolia,fast,0.714
+1.0000,Peperomia obtusifolia,fast,0.714
+0.9990,Peperomia obtusifolia,fast,0.857
+0.9990,Peperomia obtusifolia,fast,0.857
+0.9990,Peperomia obtusifolia,fast,0.714
+1.0000,Peperomia obtusifolia,fast,0.714
+0.9971,Peperomia obtusifolia,fast,0.929
+0.9981,Peperomia obtusifolia,fast,0.929
+0.9942,Peperomia obtusifolia,fast,0.714
+0.9952,Peperomia obtusifolia,fast,0.786
+0.9885,Peperomia obtusifolia,fast,0.786
+0.9866,Peperomia obtusifolia,fast,0.714
+0.9846,Peperomia obtusifolia,fast,0.786
+0.9866,Peperomia obtusifolia,fast,0.786
+0.9808,Peperomia obtusifolia,fast,0.714
+0.9827,Peperomia obtusifolia,fast,0.714
+0.0063,Peperomia obtusifolia,fast,0.357
+0.5125,Peperomia obtusifolia,fast,0.214
+0.8636,Peperomia obtusifolia,fast,0.286
+0.9420,Peperomia obtusifolia,fast,0.500
+0.9655,Peperomia obtusifolia,fast,0.643
+0.9734,Peperomia obtusifolia,fast,0.786
+0.9812,Peperomia obtusifolia,fast,0.714
+0.9859,Peperomia obtusifolia,fast,0.786
+0.9922,Peperomia obtusifolia,fast,0.857
+0.9937,Peperomia obtusifolia,fast,0.857
+0.9937,Peperomia obtusifolia,fast,0.786
+1.0000,Peperomia obtusifolia,fast,1.000
+1.0000,Peperomia obtusifolia,fast,1.000
+0.9969,Peperomia obtusifolia,fast,0.929
+0.9969,Peperomia obtusifolia,fast,0.786

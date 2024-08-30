@@ -1,0 +1,56 @@
+---
+title: "nmds_pfla"
+
+---
+
+
+
+```{r}
+
+df <- PFLA_data
+
+df1 <- df %>%
+  group_by(group, Irrigation) %>%
+  summarise(mean_conc = mean(Concentration),
+            sd = sd(Concentration),
+            sem = sd(Concentration)/sqrt(length(Concentration)))
+
+write.csv(df1,"pfla average.csv",row.names = FALSE)
+
+```
+
+```{r}
+
+fig <- ggplot(data = df1,
+              aes(x = group, y = mean_conc, fill = Irrigation)) +
+  
+  geom_bar(stat = "identity", position = position_dodge(width = 1.2), color = "black") +  # Increase width for position_dodge
+  geom_errorbar(aes(ymin = mean_conc - sem, ymax = mean_conc + sem), 
+                position = position_dodge(width = 1.2), width = 0.25) +  # Adjust position_dodge width
+  
+  labs(x = "PFLA", y = "Concentration (nmol/g)",
+       fill = "Model type/ Irrigation") +
+  
+  theme_bw() +
+  theme(
+    axis.text.x.bottom = element_text(angle = 45, hjust = 1, vjust = 1, size = 12, face = "bold"),
+    axis.text.y = element_text(size = 15),
+    panel.grid.major = element_line(size = 1),
+    panel.grid.minor = element_line(size = 1),
+    strip.text.x = element_text(size = 18),
+    axis.title.y = element_text(size = 18, margin = margin(r = 20)),
+    strip.text.y.left = element_text(angle = 0, colour = "black", size = 15),
+    panel.background = element_rect(fill = "white"),
+    panel.spacing = unit(0.5, 'lines'),
+    axis.text.y.left = element_text(vjust = 0.3025, colour = "black", size = 15),
+    panel.border = element_rect(colour = "darkgrey", fill = NA, size = 0.5),
+    legend.text = element_text(size = 16),  # Adjust legend text size
+    legend.title = element_text(size = 18)
+  )
+
+ggsave("test.tiff", plot = fig, height = 300, width = 320, dpi = 300, units = "mm")
+
+```
+
+
+
